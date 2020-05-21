@@ -47,19 +47,21 @@ async function remove(boardId) {
 }
 
 async function save(board) {
+    console.log(board);
+    
     const collection = await dbService.getCollection('board')
     try {
-        if (!toy._id) {
-            toy.createdAt = new Date(Date.now())
-            await collection.insertOne(toy)
+        if (!board._id) {
+            board.createdAt = new Date(Date.now())
+            await collection.insertOne(board)
         } else {
-            toy._id = ObjectId(toy._id);
-            await collection.replaceOne({ "_id": toy._id }, { $set: toy })
+            board._id = ObjectId(board._id);
+            await collection.replaceOne({ "_id": board._id }, { $set: board })
         }
 
-        return toy;
+        return board;
     } catch (err) {
-        console.log(`ERROR: cannot save toy`)
+        console.log(`ERROR: cannot save board`)
         throw err;
     }
 }
