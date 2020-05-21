@@ -524,7 +524,11 @@ Thu, 21 May 2020 15:01:22 GMT - Debug - auth.service - login with username: reem
 =======
 >>>>>>> c1859b002299ba5cc885897ffdb29035c6ba2dca
 >>>>>>> ccf602bba169d0b57ea62490dccb85a4cbd97645
+<<<<<<< HEAD
+Thu, 21 May 2020 15:11:02 GMT - Debug - auth.service - login with username: reem
+=======
 >>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
+<<<<<<< HEAD
 Thu, 21 May 2020 17:11:03 GMT - Debug - asdas, 2d2, sadasd
 Thu, 21 May 2020 17:11:03 GMT - Debug - username: asdasd
 Thu, 21 May 2020 17:11:03 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590081063621,"password":"$2a$10$C45JPW7hhTL8Qq4zsDr3mOP/HJdBrq.Jg30exW0riAr5SeCmPNvfa","fullName":"asdas","email":"sadasd","userName":"asdasd","_id":"5ec6b627e28c6c4284cf5dae"}
@@ -537,3 +541,6 @@ Thu, 21 May 2020 18:13:42 GMT - Debug - auth.service - login with username: aaa
 Thu, 21 May 2020 18:16:38 GMT - Debug - auth.service - login with username: undefined
 Thu, 21 May 2020 18:19:42 GMT - Debug - auth.service - login with username: aaa
 Thu, 21 May 2020 18:20:04 GMT - Debug - auth.service - login with username: aaa
+=======
+>>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+>>>>>>> d6df3c09a4b3db0efc025b91a8dd8392e69a7aa3
