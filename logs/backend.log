@@ -1,0 +1,253 @@
+Sun, 17 May 2020 14:20:11 GMT - Error - Cannot get reviews
+Sun, 17 May 2020 14:20:16 GMT - Error - Cannot get reviews
+Sun, 17 May 2020 14:20:17 GMT - Error - Cannot get reviews
+Sun, 17 May 2020 14:21:57 GMT - Error - Cannot get reviews
+Sun, 17 May 2020 20:49:47 GMT - Debug - undefined, userr, 123
+Sun, 17 May 2020 20:49:47 GMT - Debug - username: 123
+Sun, 17 May 2020 20:49:48 GMT - Error - [SIGNUP] username and password are required!
+Sun, 17 May 2020 20:50:28 GMT - Debug - undefined, muki, 123
+Sun, 17 May 2020 20:50:28 GMT - Debug - username: 123
+Sun, 17 May 2020 20:50:28 GMT - Error - [SIGNUP] username and password are required!
+Sun, 17 May 2020 20:51:26 GMT - Debug - muki, 123
+Sun, 17 May 2020 20:51:27 GMT - Debug - username: muki
+Sun, 17 May 2020 20:51:27 GMT - Debug - auth.route - new account created: {"password":"$2a$10$pweNBT1SjDcl/0vnTjuR5eOwCHtO9//WasblIpk0iX89/5hkg.tsm","username":"muki","_id":"5ec1a3cfe929d21fec2a481d"}
+Sun, 17 May 2020 20:51:27 GMT - Error - [SIGNUP] ReferenceError: email is not defined
+Sun, 17 May 2020 20:53:19 GMT - Debug - puki, 111
+Sun, 17 May 2020 20:53:19 GMT - Debug - username: puki
+Sun, 17 May 2020 20:53:19 GMT - Debug - auth.route - new account created: {"password":"$2a$10$Nvc7PkwSgBf5mLfLhvUBluoWvs/rlkjLIUay0.ukdpJNYnAmpA6WO","username":"puki","isAdmin":false,"_id":"5ec1a43f199b1907c0e8fc43"}
+Sun, 17 May 2020 20:53:19 GMT - Error - [SIGNUP] ReferenceError: email is not defined
+Sun, 17 May 2020 20:54:01 GMT - Debug - aaa, 123
+Sun, 17 May 2020 20:54:01 GMT - Debug - username: aaa
+Sun, 17 May 2020 20:54:01 GMT - Debug - auth.route - new account created: {"password":"$2a$10$xfUFt0nV40lzMEkaLsYkGOvP1Rx2WsIt2BmRDEf963sn0Q7iD5YGu","username":"aaa","isAdmin":false,"_id":"5ec1a469199b1907c0e8fc44"}
+Sun, 17 May 2020 20:54:01 GMT - Error - [SIGNUP] ReferenceError: email is not defined
+Sun, 17 May 2020 20:56:21 GMT - Debug - admin, 111
+Sun, 17 May 2020 20:56:21 GMT - Debug - username: admin
+Sun, 17 May 2020 20:56:21 GMT - Debug - auth.route - new account created: {"password":"$2a$10$bGLiHT3bnG/Y72AFtIUxjuVteFLUpt3wwx3eCoIHacl7HIwmQfvYG","username":"admin","isAdmin":false,"_id":"5ec1a4f5199b1907c0e8fc45"}
+Sun, 17 May 2020 20:56:21 GMT - Error - [SIGNUP] ReferenceError: email is not defined
+Sun, 17 May 2020 21:01:11 GMT - Debug - ccc, 222
+Sun, 17 May 2020 21:01:11 GMT - Debug - username: ccc
+Sun, 17 May 2020 21:01:11 GMT - Debug - auth.route - new account created: {"password":"$2a$10$HQw9R1CfvrBb99qlc3fK3ej8ZyaOzc60pwET8vy6CTS5z7V8XHsG6","username":"ccc","isAdmin":false,"_id":"5ec1a617cbe6202aa069f4bc"}
+Sun, 17 May 2020 21:01:11 GMT - Error - [SIGNUP] ReferenceError: email is not defined
+Sun, 17 May 2020 21:06:30 GMT - Debug - shuki, 123
+Sun, 17 May 2020 21:06:30 GMT - Debug - username: shuki
+Sun, 17 May 2020 21:06:30 GMT - Debug - auth.route - new account created: {"password":"$2a$10$CEIsf/aUfnNapjj/5CozA.QXeUIR0VSWRqUuy24rMOm6HJwXVvkze","username":"shuki","isAdmin":false,"_id":"5ec1a7560aa41c0df0eb6491"}
+Sun, 17 May 2020 21:06:30 GMT - Debug - auth.service - login with email: shuki
+Sun, 17 May 2020 21:06:30 GMT - Error - [SIGNUP] Invalid username or password
+Sun, 17 May 2020 21:10:34 GMT - Debug - daadaa, 111
+Sun, 17 May 2020 21:10:34 GMT - Debug - username: daadaa
+Sun, 17 May 2020 21:10:34 GMT - Debug - auth.route - new account created: {"password":"$2a$10$hrRRpBVANqFtTCg1zVUJ/eqst.AOhrevBXLzi0ZXcg/Mt.DfrkdQe","username":"daadaa","isAdmin":false,"_id":"5ec1a84adb03091eec47b677"}
+Sun, 17 May 2020 21:10:34 GMT - Debug - auth.service - login with email: daadaa
+Sun, 17 May 2020 21:10:49 GMT - Debug - auth.service - login with email: daadaa
+Sun, 17 May 2020 21:21:01 GMT - Debug - auth.service - login with email: aaa
+Sun, 17 May 2020 21:21:06 GMT - Debug - auth.service - login with email: shuki
+Sun, 17 May 2020 21:21:09 GMT - Debug - auth.service - login with email: admin
+Sun, 17 May 2020 21:22:02 GMT - Debug - aaa, 223
+Sun, 17 May 2020 21:22:02 GMT - Debug - username: aaa
+Sun, 17 May 2020 21:22:02 GMT - Debug - auth.route - new account created: {"password":"$2a$10$jkhmLfJiH2fILw6I1NmgPeFVoAgcFXepTD8Cgfy/BgtLXN4Z/exNe","username":"aaa","isAdmin":false,"_id":"5ec1aafac15cf92adce10b4e"}
+Sun, 17 May 2020 21:22:02 GMT - Debug - auth.service - login with email: aaa
+Sun, 17 May 2020 21:22:02 GMT - Error - [SIGNUP] Invalid username or password
+Sun, 17 May 2020 21:22:28 GMT - Debug - aaabbb, 111
+Sun, 17 May 2020 21:22:28 GMT - Debug - username: aaabbb
+Sun, 17 May 2020 21:22:28 GMT - Debug - auth.route - new account created: {"password":"$2a$10$7MRERA2BeylmHDJ7pvvxcORUe1Z4dVr8kTlfCDWrU5Eut.gQCIRVe","username":"aaabbb","isAdmin":false,"_id":"5ec1ab14c15cf92adce10b4f"}
+Sun, 17 May 2020 21:22:28 GMT - Debug - auth.service - login with email: aaabbb
+Sun, 17 May 2020 21:22:37 GMT - Debug - auth.service - login with email: aaabbb
+Sun, 17 May 2020 21:26:40 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:26:40 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:26:40 GMT - Debug - auth.route - new account created: {"password":"$2a$10$YGa1WFdNYx0NiqxLjCfxNO3SYxJ9CDamwZKKOaV5UgFdYIogxgkRS","username":"qwe","isAdmin":false,"_id":"5ec1ac10c15cf92adce10b50"}
+Sun, 17 May 2020 21:26:40 GMT - Debug - auth.service - login with email: qwe
+Sun, 17 May 2020 21:26:50 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:26:50 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:26:50 GMT - Debug - auth.route - new account created: {"password":"$2a$10$xGjh0cHqUdgKZ3Elxq7mF.gcFPyfWe9m21kiTAet27IM5oKSceglu","username":"qwe","isAdmin":false,"_id":"5ec1ac1ac15cf92adce10b51"}
+Sun, 17 May 2020 21:26:50 GMT - Debug - auth.service - login with email: qwe
+Sun, 17 May 2020 21:32:49 GMT - Debug - auth.service - login with email: qwe
+Sun, 17 May 2020 21:34:08 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:35:24 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:38:27 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:38:58 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:39:04 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:39:59 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:39:59 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:39:59 GMT - Debug - auth.route - new account created: {"password":"$2a$10$HTar26vITJIISJRfCE3vy.t8BCMashO.Dfr65X7yeEgJGKK3c.EE6","username":"qwe","isAdmin":false,"_id":"5ec1af2ff461a831887a9597"}
+Sun, 17 May 2020 21:39:59 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:40:17 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:40:17 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:40:17 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:40:23 GMT - Debug - qwea, 123
+Sun, 17 May 2020 21:40:23 GMT - Debug - username: qwea
+Sun, 17 May 2020 21:40:23 GMT - Debug - auth.route - new account created: {"password":"$2a$10$tnIf8HMMY4tfiW6YWydhMOyuCH0q1BYbj3AYr63mxVSBPM/dub1.W","username":"qwea","isAdmin":false,"_id":"5ec1af476b747a2bd46b4cf5"}
+Sun, 17 May 2020 21:40:23 GMT - Debug - auth.service - login with username: qwea
+Sun, 17 May 2020 21:40:53 GMT - Debug - xsxsxs, 123
+Sun, 17 May 2020 21:40:53 GMT - Debug - username: xsxsxs
+Sun, 17 May 2020 21:40:53 GMT - Debug - auth.route - new account created: {"password":"$2a$10$o.fHfwsKG9olB75oN6e1iuSof3.K0DxapYhzTaRyRkk6vJSQ5VW4m","username":"xsxsxs","isAdmin":false,"_id":"5ec1af656b747a2bd46b4cf6"}
+Sun, 17 May 2020 21:40:53 GMT - Debug - auth.service - login with username: xsxsxs
+Sun, 17 May 2020 21:40:58 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:41:11 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:41:11 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:41:11 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:42:42 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:42:42 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:42:42 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:44:39 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 21:46:44 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:46:44 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:46:44 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:47:01 GMT - Debug - ddw, 123
+Sun, 17 May 2020 21:47:01 GMT - Debug - username: ddw
+Sun, 17 May 2020 21:47:01 GMT - Debug - auth.route - new account created: {"password":"$2a$10$bXu2K4AoRBam3HjSc36JNObqKsX7NBFMYjAk4KtB7GOFwIilkjSCS","username":"ddw","isAdmin":false,"_id":"5ec1b0d56b747a2bd46b4cf7"}
+Sun, 17 May 2020 21:47:01 GMT - Debug - auth.service - login with username: ddw
+Sun, 17 May 2020 21:47:09 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:47:09 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:47:09 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:47:22 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:47:22 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:47:22 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:47:34 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:47:34 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:47:34 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:51:13 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:51:13 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:51:13 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:52:46 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:52:46 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:52:46 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:53:26 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:53:26 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:53:26 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:56:20 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:56:20 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:56:20 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:56:57 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:56:57 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:56:57 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:58:08 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:58:08 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:58:08 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 21:58:29 GMT - Debug - qwe, 123
+Sun, 17 May 2020 21:58:29 GMT - Debug - username: qwe
+Sun, 17 May 2020 21:58:29 GMT - Error - [SIGNUP] This username already exists!
+Sun, 17 May 2020 22:02:35 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 22:03:05 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:03:06 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:03:10 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:03:11 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:03:39 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:03:41 GMT - Debug - auth.service - login with username: admin
+Sun, 17 May 2020 22:04:05 GMT - Debug - auth.service - login with username: muki
+Sun, 17 May 2020 22:04:13 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 22:04:43 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 22:05:36 GMT - Debug - auth.service - login with username: qwe
+Sun, 17 May 2020 22:06:31 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 05:50:36 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 06:01:50 GMT - Debug - qwe, 123
+Mon, 18 May 2020 06:01:50 GMT - Debug - username: qwe
+Mon, 18 May 2020 06:01:50 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 06:04:56 GMT - Debug - qwe, 123
+Mon, 18 May 2020 06:04:56 GMT - Debug - username: qwe
+Mon, 18 May 2020 06:04:56 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 06:05:52 GMT - Debug - qwe, 123
+Mon, 18 May 2020 06:05:52 GMT - Debug - username: qwe
+Mon, 18 May 2020 06:05:52 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 06:06:59 GMT - Debug - qwe, 123
+Mon, 18 May 2020 06:06:59 GMT - Debug - username: qwe
+Mon, 18 May 2020 06:06:59 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:05:55 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:05:55 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:05:55 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:06:03 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:06:03 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:06:03 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:06:38 GMT - Debug - , 123
+Mon, 18 May 2020 07:06:38 GMT - Debug - username: 
+Mon, 18 May 2020 07:06:38 GMT - Error - [SIGNUP] username and password are required!
+Mon, 18 May 2020 07:07:55 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:07:55 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:07:55 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:09:07 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:09:07 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:09:07 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:10:19 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:10:19 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:10:19 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:10:41 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:10:41 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:10:41 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:11:26 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:11:26 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:11:26 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:12:13 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:12:13 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:12:13 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:12:36 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:12:36 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:12:36 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:13:01 GMT - Debug - qwe, 123
+Mon, 18 May 2020 07:13:01 GMT - Debug - username: qwe
+Mon, 18 May 2020 07:13:01 GMT - Error - [SIGNUP] This username already exists!
+Mon, 18 May 2020 07:13:23 GMT - Debug - qweax, 123
+Mon, 18 May 2020 07:13:23 GMT - Debug - username: qweax
+Mon, 18 May 2020 07:13:23 GMT - Debug - auth.route - new account created: {"password":"$2a$10$QshUjJj.AlPMbLgvCcHs6OeaPi3pFWzjlEDOo8fCrep2ZWrIh3h9i","username":"qweax","isAdmin":false,"_id":"5ec235938482771dfc350166"}
+Mon, 18 May 2020 07:13:23 GMT - Debug - auth.service - login with username: qweax
+Mon, 18 May 2020 07:15:49 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:16:09 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:16:48 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:16:55 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:17:13 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:17:37 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:17:49 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:17:54 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:20:19 GMT - Debug - eee, 123
+Mon, 18 May 2020 07:20:19 GMT - Debug - username: eee
+Mon, 18 May 2020 07:20:19 GMT - Debug - auth.route - new account created: {"password":"$2a$10$7ZVTuKfa728Yn2.nSrXZJuI85YPGSqU.xbiIwnyNB5xg0c/8cgaaK","username":"eee","isAdmin":false,"_id":"5ec23733b543ff070026c497"}
+Mon, 18 May 2020 07:20:19 GMT - Debug - auth.service - login with username: eee
+Mon, 18 May 2020 07:20:33 GMT - Debug - auth.service - login with username: eee
+Mon, 18 May 2020 07:20:51 GMT - Debug - auth.service - login with username: eee
+Mon, 18 May 2020 07:24:12 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 07:26:39 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:48:04 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:48:48 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:50:24 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:52:02 GMT - Debug - auth.service - login with username: eqw
+Mon, 18 May 2020 10:52:10 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:59:31 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:59:49 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 10:59:54 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 11:14:39 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 11:27:45 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 12:16:15 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:14:08 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:17:14 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:17:34 GMT - Debug - ddd, 111
+Mon, 18 May 2020 13:17:34 GMT - Debug - username: ddd
+Mon, 18 May 2020 13:17:34 GMT - Debug - auth.route - new account created: {"password":"$2a$10$XJ.L7Nh0Ybe8oOmnUeu0dONsLwTwWxeIZYPAq/r0S7H4tjl5yegLe","username":"ddd","isAdmin":false,"_id":"5ec28aee8c4d2805dc2e22b6"}
+Mon, 18 May 2020 13:17:34 GMT - Debug - auth.service - login with username: ddd
+Mon, 18 May 2020 13:17:40 GMT - Debug - auth.service - login with username: ddd
+Mon, 18 May 2020 13:25:25 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:27:48 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:30:51 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:30:59 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:33:27 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:34:02 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:35:45 GMT - Debug - auth.service - login with username: muki
+Mon, 18 May 2020 13:35:47 GMT - Debug - auth.service - login with username: muki
+Mon, 18 May 2020 13:35:53 GMT - Debug - auth.service - login with username: shuki
+Mon, 18 May 2020 13:35:55 GMT - Debug - auth.service - login with username: shuki
+Mon, 18 May 2020 13:36:11 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:38:22 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:40:45 GMT - Debug - auth.service - login with username: shuki
+Mon, 18 May 2020 13:40:54 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:42:17 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 13:56:15 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:02:43 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:11:32 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:15:11 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:21:27 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:23:03 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:27:54 GMT - Debug - auth.service - login with username: qwe
+Mon, 18 May 2020 14:29:14 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 05:45:12 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 05:45:16 GMT - Debug - auth.service - login with username: shuki
+Tue, 19 May 2020 05:52:41 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 05:54:55 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 05:56:44 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 20:21:56 GMT - Debug - auth.service - login with username: qwe
+Tue, 19 May 2020 20:22:02 GMT - Debug - auth.service - login with username: shuki
