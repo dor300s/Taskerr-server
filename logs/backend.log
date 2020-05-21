@@ -291,7 +291,6 @@ Thu, 21 May 2020 10:14:54 GMT - Debug - auth.service - login with username: popo
 Thu, 21 May 2020 10:25:11 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 10:55:14 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 11:03:41 GMT - Debug - auth.service - login with username: popopo
-<<<<<<< HEAD
 Thu, 21 May 2020 12:02:30 GMT - Debug - aaa, ddd, bbb
 Thu, 21 May 2020 12:02:30 GMT - Debug - username: ccc
 Thu, 21 May 2020 12:02:30 GMT - Debug - auth.route - new account created: {"password":"$2a$10$ONedZLhqODRxdq53/LPZRuof/B17cJzvoR00l2Dbt8eL4g2LT8I02","fullName":"aaa","email":"bbb","username":"ccc","_id":"5ec66dd67d83a138d8372623"}
@@ -300,7 +299,6 @@ Thu, 21 May 2020 12:04:49 GMT - Debug - aaa, xxx, ccc
 Thu, 21 May 2020 12:04:49 GMT - Debug - username: sss
 Thu, 21 May 2020 12:04:49 GMT - Debug - auth.route - new account created: {"password":"$2a$10$ZQ50dJhhdN.UueYaTkP6cecI0EpjCoUvo63Iwu3jRkkOHE1SsipVW","fullName":"aaa","email":"ccc","username":"sss","_id":"5ec66e61e292e23dc0463f2c"}
 Thu, 21 May 2020 12:04:49 GMT - Debug - auth.service - login with username: sss
-=======
 Thu, 21 May 2020 11:10:45 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 11:11:15 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 11:17:00 GMT - Debug - auth.service - login with username: popopo
@@ -360,4 +358,161 @@ Thu, 21 May 2020 14:01:13 GMT - Debug - auth.service - login with username: reem
 Thu, 21 May 2020 14:03:50 GMT - Debug - auth.service - login with username: reem
 Thu, 21 May 2020 14:08:46 GMT - Debug - auth.service - login with username: reem
 Thu, 21 May 2020 14:09:54 GMT - Debug - auth.service - login with username: reem
->>>>>>> c1859b002299ba5cc885897ffdb29035c6ba2dca
+Thu, 21 May 2020 15:28:51 GMT - Debug - puli, 123, bat
+Thu, 21 May 2020 15:28:51 GMT - Debug - username: davida
+Thu, 21 May 2020 15:28:51 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590074931229,"password":"$2a$10$qKyRorMN/pbYJCDEY8qF7uRtGOpf.jIlhrqFbGPm0MM8COZQnOjVa","fullName":"puli","email":"bat","username":"davida","_id":"5ec69e33c99efe4044e0007e"}
+Thu, 21 May 2020 15:28:51 GMT - Debug - auth.service - login with username: davida
+Thu, 21 May 2020 15:28:51 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:28:55 GMT - Debug - puli, 123, bat
+Thu, 21 May 2020 15:28:55 GMT - Debug - username: davida
+Thu, 21 May 2020 15:28:55 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590074935485,"password":"$2a$10$jOBSpAXSlR1b9z1Ootb6JuX1swIIeFf6oFxPAo8IYujYLWnWGy.me","fullName":"puli","email":"bat","username":"davida","_id":"5ec69e37c99efe4044e0007f"}
+Thu, 21 May 2020 15:28:55 GMT - Debug - auth.service - login with username: davida
+Thu, 21 May 2020 15:28:55 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:28:56 GMT - Debug - puli, 123, bat
+Thu, 21 May 2020 15:28:56 GMT - Debug - username: davida
+Thu, 21 May 2020 15:28:56 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590074936274,"password":"$2a$10$6Nv.Ii.lThFQDiuRCc4eveVBhCY7RViGOwDuvqglClc85oToJ5Gfq","fullName":"puli","email":"bat","username":"davida","_id":"5ec69e38c99efe4044e00080"}
+Thu, 21 May 2020 15:28:56 GMT - Debug - auth.service - login with username: davida
+Thu, 21 May 2020 15:28:56 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:28:56 GMT - Debug - puli, 123, bat
+Thu, 21 May 2020 15:28:56 GMT - Debug - username: davida
+Thu, 21 May 2020 15:28:56 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590074936437,"password":"$2a$10$XVmtknXjLtJ1UZA6tyYmP.13xB0EQMNogGpJom67NDQFOwAOwKUS2","fullName":"puli","email":"bat","username":"davida","_id":"5ec69e38c99efe4044e00081"}
+Thu, 21 May 2020 15:28:56 GMT - Debug - auth.service - login with username: davida
+Thu, 21 May 2020 15:28:56 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:29:38 GMT - Debug - koko, koko, koko
+Thu, 21 May 2020 15:29:38 GMT - Debug - username: koko
+Thu, 21 May 2020 15:29:38 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590074978478,"password":"$2a$10$dk0b2nD8eJkQus9OUEUqQeNp7EtP2u6oWxpMJE/qrxgwTYIeYaPg.","fullName":"koko","email":"koko","username":"koko","_id":"5ec69e6289c27901040cb4cd"}
+Thu, 21 May 2020 15:29:38 GMT - Debug - auth.service - login with username: koko
+Thu, 21 May 2020 15:29:38 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:30:30 GMT - Debug - fg4, 3333, gr3rgr3
+Thu, 21 May 2020 15:30:30 GMT - Debug - username: 3rg3g
+Thu, 21 May 2020 15:30:30 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590075030855,"password":"$2a$10$Zha6hwiYPQR0NdOuCL5ZwO7GvuIl7udlN2TM/s3UyM1tPZkQ8agA.","fullName":"fg4","email":"gr3rgr3","username":"3rg3g","_id":"5ec69e9689c27901040cb4ce"}
+Thu, 21 May 2020 15:30:30 GMT - Debug - auth.service - login with username: 3rg3g
+Thu, 21 May 2020 15:30:30 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:31:41 GMT - Debug - asdasdsa, 23121, dasdasd
+Thu, 21 May 2020 15:31:41 GMT - Debug - username: sadasd
+Thu, 21 May 2020 15:31:41 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590075101543,"password":"$2a$10$YcIb0mfRYRzca9aFEss1A.u4qjpGFcOwZFL8AYFcmWsZKj5EC.1.C","fullName":"asdasdsa","email":"dasdasd","username":"sadasd","_id":"5ec69edd89c27901040cb4cf"}
+Thu, 21 May 2020 15:31:41 GMT - Debug - auth.service - login with username: sadasd
+Thu, 21 May 2020 15:31:41 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:34:44 GMT - Debug - asdas, 232, asdasd
+Thu, 21 May 2020 15:34:44 GMT - Debug - username: asdas
+Thu, 21 May 2020 15:34:44 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590075284488,"password":"$2a$10$6oa0GPg7hffrAPlhPQxPVO62CN/Ks9srwHPeaGatLQYRjMBpvshzq","fullName":"asdas","email":"asdasd","username":"asdas","_id":"5ec69f9489c27901040cb4d0"}
+Thu, 21 May 2020 15:34:44 GMT - Debug - auth.service - login with username: asdas
+Thu, 21 May 2020 15:34:44 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:35:48 GMT - Debug - asdasd, 22, asddas
+Thu, 21 May 2020 15:35:48 GMT - Debug - username: dasdas
+Thu, 21 May 2020 15:35:48 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590075348433,"password":"$2a$10$iyOPV3KX5QsrPAzPLoA44u1HiTH9jx1wM2W2SDms3XZwzBqREmMM2","fullName":"asdasd","email":"asddas","username":"dasdas","_id":"5ec69fd489c27901040cb4d1"}
+Thu, 21 May 2020 15:35:48 GMT - Debug - auth.service - login with username: dasdas
+Thu, 21 May 2020 15:35:48 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:37:18 GMT - Debug - asdas, 2, dasdas
+Thu, 21 May 2020 15:37:18 GMT - Debug - username: dasd2
+Thu, 21 May 2020 15:37:18 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075438921,"password":"$2a$10$jboFmWSbJxYW1efUGu7Lfu1fNzi7Bk1I7Zj8RL61u8YYVULrAzS1e","fullName":"asdas","email":"dasdas","username":"dasd2","_id":"5ec6a02ebbb70028a46807d6"}
+Thu, 21 May 2020 15:37:18 GMT - Debug - auth.service - login with username: dasd2
+Thu, 21 May 2020 15:37:18 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:39:33 GMT - Debug - sdads, 222, adasd
+Thu, 21 May 2020 15:39:33 GMT - Debug - username: sadas
+Thu, 21 May 2020 15:39:33 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075573715,"password":"$2a$10$JVQ0p0p7XOh4PH86sQvOgeknN2FnYaHCDrO9Ss31VEvDxzu5P.P7G","fullName":"sdads","email":"adasd","username":"sadas","_id":"5ec6a0b5bbb70028a46807d7"}
+Thu, 21 May 2020 15:39:33 GMT - Debug - auth.service - login with username: sadas
+Thu, 21 May 2020 15:39:33 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:40:01 GMT - Debug - sadas, d2, dasd
+Thu, 21 May 2020 15:40:01 GMT - Debug - username: sadas
+Thu, 21 May 2020 15:40:01 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075601920,"password":"$2a$10$8Y8cTPfIYXjRjIlcMX/U2.hPa/fSAu6gZFjvJMsqDgb8ozjdufQB.","fullName":"sadas","email":"dasd","username":"sadas","_id":"5ec6a0d1bbb70028a46807d8"}
+Thu, 21 May 2020 15:40:01 GMT - Debug - auth.service - login with username: sadas
+Thu, 21 May 2020 15:40:01 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:41:11 GMT - Debug - sadasxsxs, d222, dasdxsxs
+Thu, 21 May 2020 15:41:11 GMT - Debug - username: sadasxsx
+Thu, 21 May 2020 15:41:11 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075671854,"password":"$2a$10$RadMBDihIaL9lmRtwiEtI.qtEUncZs2g752odlLEu9pWPndjgZReu","fullName":"sadasxsxs","email":"dasdxsxs","username":"sadasxsx","_id":"5ec6a117519e292954ed5991"}
+Thu, 21 May 2020 15:41:11 GMT - Debug - auth.service - login with username: sadasxsx
+Thu, 21 May 2020 15:41:11 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:41:23 GMT - Debug - fdfd, 22, fdfd
+Thu, 21 May 2020 15:41:23 GMT - Debug - username: dfd
+Thu, 21 May 2020 15:41:23 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075683922,"password":"$2a$10$CuW7F1/VQZNzTlGrdgqjBuXK.yVRrHaHdhExQ3ubt7G4vWHIviq1K","fullName":"fdfd","email":"fdfd","username":"dfd","_id":"5ec6a1239790a51134cb699f"}
+Thu, 21 May 2020 15:41:23 GMT - Debug - auth.service - login with username: dfd
+Thu, 21 May 2020 15:41:23 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:43:17 GMT - Debug - fdfd, 22, fdfd
+Thu, 21 May 2020 15:43:17 GMT - Debug - username: dfd
+Thu, 21 May 2020 15:43:17 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075797791,"password":"$2a$10$6.OYC3jyyAbm6vRWAiQdHu8s2Wv1n/gs8UjMOFKstmKDiphnWNwuG","fullName":"fdfd","email":"fdfd","username":"dfd","_id":"5ec6a19503437b0398c276f4"}
+Thu, 21 May 2020 15:43:17 GMT - Debug - auth.service - login with username: dfd
+Thu, 21 May 2020 15:43:17 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:44:15 GMT - Debug - fdfddasdasd, 22d, fdfd2d2d2
+Thu, 21 May 2020 15:44:15 GMT - Debug - username: dfd2
+Thu, 21 May 2020 15:44:15 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075855678,"password":"$2a$10$VV7IqKz9YbxQ/0gTLgzAwuEFHWcWY/.fo/rGItVZ.2WEzKMqnCnsG","fullName":"fdfddasdasd","email":"fdfd2d2d2","username":"dfd2","_id":"5ec6a1cf9b7651450c60806b"}
+Thu, 21 May 2020 15:44:15 GMT - Debug - auth.service - login with username: dfd2
+Thu, 21 May 2020 15:44:15 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:46:25 GMT - Debug - fdfddasdasdsadas, 22d, fdfd2d2d2
+Thu, 21 May 2020 15:46:25 GMT - Debug - username: dfd2
+Thu, 21 May 2020 15:46:25 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590075985783,"password":"$2a$10$58yIq84z3a4UdLtbyXDV4e9Mvvy9.vVhbIqgNvR1RJl2nDWslx2Ty","fullName":"fdfddasdasdsadas","email":"fdfd2d2d2","username":"dfd2","_id":"5ec6a251fc62870bf8838fff"}
+Thu, 21 May 2020 15:46:25 GMT - Debug - auth.service - login with username: dfd2
+Thu, 21 May 2020 15:46:25 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:46:55 GMT - Debug - dsds, 22, dsds
+Thu, 21 May 2020 15:46:55 GMT - Debug - username: sdds
+Thu, 21 May 2020 15:46:55 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076015287,"password":"$2a$10$Gy5xzFyxj2wDTQ2BocbIYeujvV5zCRtDF9c44DAvgHWd6sPF.4WsO","fullName":"dsds","email":"dsds","username":"sdds","_id":"5ec6a26ff0962d468439c839"}
+Thu, 21 May 2020 15:46:55 GMT - Debug - auth.service - login with username: sdds
+Thu, 21 May 2020 15:46:55 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:47:43 GMT - Debug - dsds, 22, dsds
+Thu, 21 May 2020 15:47:43 GMT - Debug - username: sdds
+Thu, 21 May 2020 15:47:43 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076063907,"password":"$2a$10$9G9WfZklMpylIB0hGqOe3.kixCLbmKpsgCE8hf/Mzj5h.Tglzg.Ha","fullName":"dsds","email":"dsds","username":"sdds","_id":"5ec6a29fb1290744c4ef6f43"}
+Thu, 21 May 2020 15:47:43 GMT - Debug - auth.service - login with username: sdds
+Thu, 21 May 2020 15:47:43 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:48:34 GMT - Debug - sdasd, 22, asdas
+Thu, 21 May 2020 15:48:34 GMT - Debug - username: dasdsa
+Thu, 21 May 2020 15:48:34 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076114546,"password":"$2a$10$DGqbOETt4tecY/2bNbAVmugwfW1tyqIPNfLpabaUCBx9GfXz3AVMW","fullName":"sdasd","email":"asdas","username":"dasdsa","_id":"5ec6a2d28e167c26a8595778"}
+Thu, 21 May 2020 15:48:34 GMT - Debug - auth.service - login with username: dasdsa
+Thu, 21 May 2020 15:48:34 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:48:53 GMT - Debug - sdasd, 22, asdas
+Thu, 21 May 2020 15:48:53 GMT - Debug - username: dasdsa
+Thu, 21 May 2020 15:48:53 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076133209,"password":"$2a$10$Vnpu.4x43bL7uwIgOOOtLODlC0kvNlv5nchfLJsUoZ4lD34vpIKxK","fullName":"sdasd","email":"asdas","username":"dasdsa","_id":"5ec6a2e5653b60310c167d26"}
+Thu, 21 May 2020 15:48:53 GMT - Debug - auth.service - login with username: dasdsa
+Thu, 21 May 2020 15:48:53 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:49:58 GMT - Debug - sdasd, 22, asdas
+Thu, 21 May 2020 15:49:58 GMT - Debug - username: dasdsa
+Thu, 21 May 2020 15:49:58 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076198752,"password":"$2a$10$.Fj/ytlvdR.sHehKfZzLuO2kMgaJSb0Bh4gzhJ3.v7W0pBN/v7D8e","fullName":"sdasd","email":"asdas","username":"dasdsa","_id":"5ec6a3269c903e43045c9578"}
+Thu, 21 May 2020 15:49:58 GMT - Debug - auth.service - login with username: dasdsa
+Thu, 21 May 2020 15:49:58 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:50:13 GMT - Debug - wdwq, 2d, wdqwd
+Thu, 21 May 2020 15:50:13 GMT - Debug - username: wqdqw
+Thu, 21 May 2020 15:50:13 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076213298,"password":"$2a$10$3u7W2RjR33zfgfR5StU.tO10HVvVpTfQW/NzGUdVdbQdOFrnrPLjW","fullName":"wdwq","email":"wdqwd","username":"wqdqw","_id":"5ec6a3359c903e43045c9579"}
+Thu, 21 May 2020 15:50:13 GMT - Debug - auth.service - login with username: wqdqw
+Thu, 21 May 2020 15:50:13 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:50:28 GMT - Debug - sxsxs, ss, xxs
+Thu, 21 May 2020 15:50:28 GMT - Debug - username: sxxs
+Thu, 21 May 2020 15:50:28 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076228423,"password":"$2a$10$A/XWeo9dmMk892R6Yv7ZkeO8ELkdaXSUuSyM4xI1JKfWsldPa6CH.","fullName":"sxsxs","email":"xxs","username":"sxxs","_id":"5ec6a3440a2e401030a4f532"}
+Thu, 21 May 2020 15:50:28 GMT - Debug - auth.service - login with username: sxxs
+Thu, 21 May 2020 15:50:28 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:54:02 GMT - Debug - dsadas, aa, 2e2d211d2
+Thu, 21 May 2020 15:54:02 GMT - Debug - username: asda
+Thu, 21 May 2020 15:54:02 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076442385,"password":"$2a$10$DVidQvPWfYMFLWhLt9dcvu/sR6F1Q8LI.OlpgHOBt7IvwYDHzjrWq","fullName":"dsadas","email":"2e2d211d2","username":"asda","_id":"5ec6a41a8ae43e4088bf743a"}
+Thu, 21 May 2020 15:54:02 GMT - Debug - auth.service - login with username: asda
+Thu, 21 May 2020 15:54:02 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 15:55:31 GMT - Debug - asdasd, 22, asdas
+Thu, 21 May 2020 15:55:31 GMT - Debug - username: dasdas
+Thu, 21 May 2020 15:55:31 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076531558,"password":"$2a$10$/cxzZGQwRz2UVduHFWUAWey1lARRe3RzvsaVMQqq7o/zTyGLQWuFO","fullName":"asdasd","email":"asdas","username":"dasdas","_id":"5ec6a473695335046c4fadcf"}
+Thu, 21 May 2020 15:55:31 GMT - Error - [SIGNUP] ReferenceError: Cannot access 'user' before initialization
+Thu, 21 May 2020 15:55:55 GMT - Debug - asdasdasdasd, 2222, asdasasdas
+Thu, 21 May 2020 15:55:55 GMT - Debug - username: dasdadasdass
+Thu, 21 May 2020 15:55:55 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590076555155,"password":"$2a$10$Ek..MSTTOz2aL/WteKML0upq6UVyPo0IE0eDtEM/puFu/3Tyi1wqq","fullName":"asdasdasdasd","email":"asdasasdas","username":"dasdadasdass","_id":"5ec6a48bb32f0545fce68ad6"}
+Thu, 21 May 2020 15:55:55 GMT - Debug - auth.service - login with username: dasdadasdass
+Thu, 21 May 2020 15:55:55 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 16:03:04 GMT - Debug - sadasdas, 2222222, dsadas
+Thu, 21 May 2020 16:03:04 GMT - Debug - username: undefined
+Thu, 21 May 2020 16:03:04 GMT - Error - [SIGNUP] All fields are required
+Thu, 21 May 2020 16:04:05 GMT - Debug - azazazaxax, 2222222222222222, asdasdsa
+Thu, 21 May 2020 16:04:05 GMT - Debug - username: undefined
+Thu, 21 May 2020 16:04:05 GMT - Error - [SIGNUP] All fields are required
+Thu, 21 May 2020 16:05:33 GMT - Debug - azazazaxax, 2222222222222222, axaxax@@@@sadasd
+Thu, 21 May 2020 16:05:33 GMT - Debug - username: asdasdsa
+Thu, 21 May 2020 16:05:34 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590077134002,"password":"$2a$10$CWNRwRfD7d.B7Vu04nyHwuBvCWSnmoj4h.ZWpRC0D7hu7tyo7QC16","fullName":"azazazaxax","email":"axaxax@@@@sadasd","username":"asdasdsa","_id":"5ec6a6cebc55e00fb4d7e987"}
+Thu, 21 May 2020 16:05:34 GMT - Debug - auth.service - login with username: asdasdsa
+Thu, 21 May 2020 16:05:34 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 16:09:28 GMT - Debug - dsadsa, cccccccccccccccccc, 2222
+Thu, 21 May 2020 16:09:28 GMT - Debug - username: ddddd
+Thu, 21 May 2020 16:09:28 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590077368598,"password":"$2a$10$M3oq1Nwl2mIMQRkGPscXz..1Cmq/8rnvfZBB0vJQzt2fcn7wNSVi6","fullName":"dsadsa","email":"2222","username":"ddddd","_id":"5ec6a7b8ba2ceb33ac32fc2e"}
+Thu, 21 May 2020 16:09:28 GMT - Debug - auth.service - login with username: ddddd
+Thu, 21 May 2020 16:09:28 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 16:11:15 GMT - Debug - dsadsaasdas, ccccccccccccccccccddd, 22222d2
+Thu, 21 May 2020 16:11:15 GMT - Debug - username: dddddd2d2d
+Thu, 21 May 2020 16:11:15 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590077475795,"password":"$2a$10$GcW18jinG8RQ7XokcIHIYOpT4y.rduXDtx3zmSrn4eQCpvF0JgPDG","fullName":"dsadsaasdas","email":"22222d2","userName":"dddddd2d2d","_id":"5ec6a8233d40e62e30a13e15"}
+Thu, 21 May 2020 16:11:15 GMT - Debug - auth.service - login with username: dddddd2d2d
+Thu, 21 May 2020 16:14:51 GMT - Debug - dsadasd, 2ddddddddddddd, sadasdasd
+Thu, 21 May 2020 16:14:51 GMT - Debug - username: 222222222222
+Thu, 21 May 2020 16:14:51 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590077691811,"password":"$2a$10$2giiwc4cOi.6AHnYlmDFd.O0nICRDyPJnVbKUzYAd0pKAYRrun8/q","fullName":"dsadasd","email":"sadasdasd","userName":"222222222222","_id":"5ec6a8fba54e3a306cf39470"}
+Thu, 21 May 2020 16:14:51 GMT - Debug - auth.service - login with username: 222222222222
