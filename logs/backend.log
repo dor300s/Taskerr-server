@@ -528,8 +528,26 @@ Thu, 21 May 2020 15:01:22 GMT - Debug - auth.service - login with username: reem
 Thu, 21 May 2020 15:11:02 GMT - Debug - auth.service - login with username: reem
 =======
 >>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
+<<<<<<< HEAD
+Thu, 21 May 2020 17:11:03 GMT - Debug - asdas, 2d2, sadasd
+Thu, 21 May 2020 17:11:03 GMT - Debug - username: asdasd
+Thu, 21 May 2020 17:11:03 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590081063621,"password":"$2a$10$C45JPW7hhTL8Qq4zsDr3mOP/HJdBrq.Jg30exW0riAr5SeCmPNvfa","fullName":"asdas","email":"sadasd","userName":"asdasd","_id":"5ec6b627e28c6c4284cf5dae"}
+Thu, 21 May 2020 17:11:03 GMT - Debug - auth.service - login with username: asdasd
+Thu, 21 May 2020 18:12:55 GMT - Debug - aaa, aaa, aaa
+Thu, 21 May 2020 18:12:55 GMT - Debug - username: aaa
+Thu, 21 May 2020 18:12:55 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590084775489,"password":"$2a$10$rXbOLD4vTVYeE5.kx9wjte24TZODT0GtU3ie6VYtV0ZgxD2LvEVzi","fullName":"aaa","email":"aaa","userName":"aaa","_id":"5ec6c4a70d90d90358c14650"}
+Thu, 21 May 2020 18:12:55 GMT - Debug - auth.service - login with username: aaa
+Thu, 21 May 2020 18:13:42 GMT - Debug - auth.service - login with username: aaa
+Thu, 21 May 2020 18:16:38 GMT - Debug - auth.service - login with username: undefined
+Thu, 21 May 2020 18:19:42 GMT - Debug - auth.service - login with username: aaa
+Thu, 21 May 2020 18:20:04 GMT - Debug - auth.service - login with username: aaa
+=======
 >>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+<<<<<<< HEAD
 Thu, 21 May 2020 18:09:22 GMT - Debug - sdfsdf, 1234563243, dsfdg
 Thu, 21 May 2020 18:09:22 GMT - Debug - username: reemerfer
 Thu, 21 May 2020 18:09:22 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590084562216,"password":"$2a$10$qjKzojd5m5OcfOiXen079ObnZstbln7WuNun6EVMf8hipuxNKO0/q","fullName":"sdfsdf","email":"dsfdg","userName":"reemerfer","_id":"5ec6c3d215ee363790c052a4"}
 Thu, 21 May 2020 18:09:22 GMT - Debug - auth.service - login with username: reemerfer
+=======
+>>>>>>> d6df3c09a4b3db0efc025b91a8dd8392e69a7aa3
+>>>>>>> c00ad1e4639802799bdc819e36799ac457df2ddb
