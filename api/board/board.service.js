@@ -7,12 +7,12 @@ async function query(filterBy = {}) {
     try {
         const boards = await collection.find().toArray();
 
-        /*   boards = boards.map(toy => {
-              toy.byUser = {_id: toy.byUser._id, username: toy.byUser.username}
-              toy.aboutUser = {_id: toy.aboutUser._id, username: toy.aboutUser.username}
-              delete toy.byUserId;
-              delete toy.aboutUserId;
-              return toy;
+        /*   boards = boards.map(board => {
+              board.byUser = {_id: board.byUser._id, username: board.byUser.username}
+              board.aboutUser = {_id: board.aboutUser._id, username: board.aboutUser.username}
+              delete board.byUserId;
+              delete board.aboutUserId;
+              return board;
           }) */
 
         return boards
@@ -22,32 +22,32 @@ async function query(filterBy = {}) {
     }
 }
 
-async function get(toyId) {
+async function get(boardId) {
 
-    const collection = await dbService.getCollection('toy')
+    const collection = await dbService.getCollection('board')
     try {
-        const toy = await collection.findOne({ "_id": ObjectId(toyId) })
-        return toy;
+        const board = await collection.findOne({ "_id": ObjectId(boardId) })
+        return board;
     } catch (err) {
-        console.log(`ERROR: cannot find toy ${toyId}`)
+        console.log(`ERROR: cannot find board ${boardId}`)
         throw err;
     }
 }
 
-async function remove(toyId) {
-    console.log('toy id to delete', toyId);
+async function remove(boardId) {
+    console.log('board id to delete', boardId);
 
-    const collection = await dbService.getCollection('toy')
+    const collection = await dbService.getCollection('board')
     try {
-        await collection.deleteOne({ "_id": ObjectId(toyId) })
+        await collection.deleteOne({ "_id": ObjectId(boardId) })
     } catch (err) {
-        console.log(`ERROR: cannot remove review ${toyId}`)
+        console.log(`ERROR: cannot remove review ${boardId}`)
         throw err;
     }
 }
 
-async function save(toy) {
-    const collection = await dbService.getCollection('toy')
+async function save(board) {
+    const collection = await dbService.getCollection('board')
     try {
         if (!toy._id) {
             toy.createdAt = new Date(Date.now())
