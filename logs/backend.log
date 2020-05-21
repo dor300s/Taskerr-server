@@ -366,3 +366,14 @@ Thu, 21 May 2020 15:01:22 GMT - Debug - auth.service - login with username: reem
 =======
 >>>>>>> c1859b002299ba5cc885897ffdb29035c6ba2dca
 >>>>>>> ccf602bba169d0b57ea62490dccb85a4cbd97645
+Thu, 21 May 2020 16:58:32 GMT - Debug - auth.service - login with username: kaka
+Thu, 21 May 2020 16:58:48 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 16:59:31 GMT - Debug - bit coin, 123456, bitcoin@scam.com
+Thu, 21 May 2020 16:59:31 GMT - Debug - username: bitcoin
+Thu, 21 May 2020 16:59:31 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:03:48 GMT - Debug - adasd, 123456, aaa
+Thu, 21 May 2020 17:03:48 GMT - Debug - username: gdgd
+Thu, 21 May 2020 17:03:48 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:03:51 GMT - Debug - adasd, 34535, aaa
+Thu, 21 May 2020 17:03:51 GMT - Debug - username: gdgd
+Thu, 21 May 2020 17:03:51 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
