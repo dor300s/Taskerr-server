@@ -302,3 +302,51 @@ Thu, 21 May 2020 11:29:55 GMT - Debug - kaka, 123456, kaka@gmail.com
 Thu, 21 May 2020 11:29:55 GMT - Debug - username: kaka
 Thu, 21 May 2020 11:29:56 GMT - Debug - auth.route - new account created: {"password":"$2a$10$yex8TPvjJjFkMrGi43jBX.rXwHekEd3LKYDyeTC.TRqJWgCDa0Tm2","fullName":"kaka","email":"kaka@gmail.com","username":"kaka","_id":"5ec66634d681293794768cda"}
 Thu, 21 May 2020 11:29:56 GMT - Debug - auth.service - login with username: kaka
+Thu, 21 May 2020 12:32:49 GMT - Debug - Reem alon, 123456, reem
+Thu, 21 May 2020 12:32:49 GMT - Debug - username: reem
+Thu, 21 May 2020 12:32:49 GMT - Debug - auth.route - new account created: {"password":"$2a$10$0qihfrngyhnyZrTGi884b.qkbbnp78Nl/hjqkBt6eKWBZSXF64UEC","fullName":"Reem alon","email":"reem","username":"reem","_id":"5ec674f1cfd2093e549c8bd9"}
+Thu, 21 May 2020 12:32:49 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:39:19 GMT - Debug - aaa, 123456, aaa
+Thu, 21 May 2020 12:39:19 GMT - Debug - username: aaa
+Thu, 21 May 2020 12:39:19 GMT - Debug - auth.route - new account created: {"password":"$2a$10$I/y4QuREodHPsjo5TEBvpexRRhZqLj4kgM6XKTUVNahy/1jtR3HKW","fullName":"aaa","email":"aaa","username":"aaa","_id":"5ec67677cfd2093e549c8bda"}
+Thu, 21 May 2020 12:39:19 GMT - Debug - auth.service - login with username: aaa
+Thu, 21 May 2020 12:40:23 GMT - Debug - bbb, 123456, bbb
+Thu, 21 May 2020 12:40:23 GMT - Debug - username: bbb
+Thu, 21 May 2020 12:40:23 GMT - Debug - auth.route - new account created: {"password":"$2a$10$tm6Ov40PGNAIWEJgUnRg3OF0ogJHLkhZoPzhwTCmmBHv7fc/0fxAq","fullName":"bbb","email":"bbb","username":"bbb","_id":"5ec676b7cfd2093e549c8bdb"}
+Thu, 21 May 2020 12:40:23 GMT - Debug - auth.service - login with username: bbb
+Thu, 21 May 2020 12:42:06 GMT - Debug - ddd, 123456, ddd
+Thu, 21 May 2020 12:42:06 GMT - Debug - username: ddd
+Thu, 21 May 2020 12:42:06 GMT - Debug - auth.route - new account created: {"password":"$2a$10$knh0ejI1ld7dJ/YPL.xMnum1yuWGD9c8MUkNwehRvPgbE5qp.AhWm","fullName":"ddd","email":"ddd","username":"ddd","_id":"5ec6771ecfd2093e549c8bdc"}
+Thu, 21 May 2020 12:42:06 GMT - Debug - auth.service - login with username: ddd
+Thu, 21 May 2020 12:44:04 GMT - Debug - eee, 123456, eee
+Thu, 21 May 2020 12:44:04 GMT - Debug - username: eee
+Thu, 21 May 2020 12:44:04 GMT - Debug - auth.route - new account created: {"password":"$2a$10$2pEXNKOfvS87vup//P8l/OJCc3VP5OngjTdJbAMYj1XMa4iMGh4DC","fullName":"eee","email":"eee","username":"eee","_id":"5ec67794cfd2093e549c8bdd"}
+Thu, 21 May 2020 12:44:04 GMT - Debug - auth.service - login with username: eee
+Thu, 21 May 2020 12:45:05 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:55:54 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:55:58 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:56:01 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:56:32 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:56:37 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:56:39 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:58:41 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 12:58:44 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:02:24 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:05:07 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:06:49 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:11:02 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:23:30 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:25:37 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:26:14 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:28:57 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:30:52 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:37:33 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:38:02 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:39:34 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:44:29 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:54:26 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 13:59:03 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 14:01:13 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 14:03:50 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 14:08:46 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 14:09:54 GMT - Debug - auth.service - login with username: reem

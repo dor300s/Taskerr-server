@@ -49,7 +49,7 @@ async function getById(userId) {
 async function getByUsername(username) {
     const collection = await dbService.getCollection(COLLECTION)
     try {
-        const user = await collection.findOne({ username })
+        const user = await collection.findOne({ userName: username })
         return user
     } catch (err) {
         console.log(`ERROR: while finding user ${username}`)
