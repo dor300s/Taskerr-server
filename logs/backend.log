@@ -251,3 +251,43 @@ Tue, 19 May 2020 05:54:55 GMT - Debug - auth.service - login with username: qwe
 Tue, 19 May 2020 05:56:44 GMT - Debug - auth.service - login with username: qwe
 Tue, 19 May 2020 20:21:56 GMT - Debug - auth.service - login with username: qwe
 Tue, 19 May 2020 20:22:02 GMT - Debug - auth.service - login with username: shuki
+Thu, 21 May 2020 09:28:21 GMT - Debug - undefined, 123456
+Thu, 21 May 2020 09:28:21 GMT - Debug - username: undefined
+Thu, 21 May 2020 09:28:21 GMT - Error - [SIGNUP] username and password are required!
+Thu, 21 May 2020 09:29:23 GMT - Debug - undefined, 123456
+Thu, 21 May 2020 09:29:23 GMT - Debug - username: undefined
+Thu, 21 May 2020 09:29:23 GMT - Error - [SIGNUP] username and password are required!
+Thu, 21 May 2020 09:33:06 GMT - Debug - asdasd, 123456, popo@gmail.com
+Thu, 21 May 2020 09:33:06 GMT - Error - [SIGNUP] ReferenceError: username is not defined
+Thu, 21 May 2020 09:37:04 GMT - Debug - Reem Alon, 123456, sadfas@gmail.com
+Thu, 21 May 2020 09:37:04 GMT - Debug - auth.route - new account created: undefined
+Thu, 21 May 2020 09:37:04 GMT - Debug - auth.service - login with username: reema
+Thu, 21 May 2020 09:37:04 GMT - Error - [SIGNUP] Invalid username or password
+Thu, 21 May 2020 09:40:09 GMT - Debug - Reem Alon, 12345, reemnx@gmail.com
+Thu, 21 May 2020 09:40:09 GMT - Debug - username: reemnx
+Thu, 21 May 2020 09:40:09 GMT - Debug - auth.route - new account created: {"password":"$2a$10$IhPUKE7QTJFnDunBSPckS.sEHFezlEPD2UMzKPIf76BI9cE1mx9OS","fullName":"Reem Alon","email":"reemnx@gmail.com","username":"reemnx","_id":"5ec64c791a4d0117f49ad538"}
+Thu, 21 May 2020 09:40:09 GMT - Debug - auth.service - login with username: reemnx
+Thu, 21 May 2020 09:42:07 GMT - Debug - Reem Alon, 12345, reemnx@gmail.com
+Thu, 21 May 2020 09:42:07 GMT - Debug - username: reemnx
+Thu, 21 May 2020 09:42:07 GMT - Error - [SIGNUP] This username already exists!
+Thu, 21 May 2020 09:43:00 GMT - Debug - Reem Alon, 123456, reemnx@gmail.com
+Thu, 21 May 2020 09:43:00 GMT - Debug - username: reemnx
+Thu, 21 May 2020 09:43:00 GMT - Error - [SIGNUP] This username already exists!
+Thu, 21 May 2020 09:45:05 GMT - Debug - asdasd, 123456, popo@gmail.com
+Thu, 21 May 2020 09:45:05 GMT - Debug - username: popo
+Thu, 21 May 2020 09:45:05 GMT - Debug - auth.route - new account created: {"password":"$2a$10$jvuWrYxPZEss4p0cQ2vA5uEkxm42LtYkrwIZsSgM20yBVGWj0IJa6","fullName":"asdasd","email":"popo@gmail.com","username":"popo","_id":"5ec64da1e0f1db23d8b57ec7"}
+Thu, 21 May 2020 09:45:05 GMT - Debug - auth.service - login with username: popo
+Thu, 21 May 2020 10:03:18 GMT - Debug - auth.service - login with username: null
+Thu, 21 May 2020 10:03:55 GMT - Debug - Reem Alon, 123456, popo@gmail.com
+Thu, 21 May 2020 10:03:55 GMT - Debug - username: popopo
+Thu, 21 May 2020 10:03:55 GMT - Debug - auth.route - new account created: {"password":"$2a$10$U08oemK3CogCgdA0.xyRKuI8sLhLDCGx3zLPEaX/Zf9e8U5y0AvQS","fullName":"Reem Alon","email":"popo@gmail.com","username":"popopo","_id":"5ec6520bad96462208795c74"}
+Thu, 21 May 2020 10:03:55 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:04:06 GMT - Debug - auth.service - login with username: null
+Thu, 21 May 2020 10:04:34 GMT - Debug - auth.service - login with username: popo@gmail.com
+Thu, 21 May 2020 10:04:37 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:05:41 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:07:56 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:14:54 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:25:11 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 10:55:14 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 11:03:41 GMT - Debug - auth.service - login with username: popopo

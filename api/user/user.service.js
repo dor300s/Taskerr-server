@@ -2,6 +2,7 @@
 const dbService = require('../../services/db.service')
 const reviewService = require('../review/review.service')
 const ObjectId = require('mongodb').ObjectId
+const COLLECTION = 'user'
 
 module.exports = {
     query,
@@ -14,7 +15,7 @@ module.exports = {
 
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     try {
         const users = await collection.find(criteria).toArray();
         // users.forEach(user => delete user.password);
@@ -27,7 +28,7 @@ async function query(filterBy = {}) {
 }
 
 async function getById(userId) {
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     try {
         const user = await collection.findOne({ "_id": ObjectId(userId) })
         delete user.password
@@ -46,7 +47,7 @@ async function getById(userId) {
     }
 }
 async function getByUsername(username) {
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     try {
         const user = await collection.findOne({ username })
         return user
@@ -57,7 +58,7 @@ async function getByUsername(username) {
 }
 
 async function remove(userId) {
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     try {
         await collection.deleteOne({ "_id": ObjectId(userId) })
     } catch (err) {
@@ -67,7 +68,7 @@ async function remove(userId) {
 }
 
 async function update(user) {
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     user._id = ObjectId(user._id);
 
     try {
@@ -80,7 +81,7 @@ async function update(user) {
 }
 
 async function add(user) {
-    const collection = await dbService.getCollection('user')
+    const collection = await dbService.getCollection(COLLECTION)
     try {
         await collection.insertOne(user);
         return user;
