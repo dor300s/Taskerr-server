@@ -291,3 +291,11 @@ Thu, 21 May 2020 10:14:54 GMT - Debug - auth.service - login with username: popo
 Thu, 21 May 2020 10:25:11 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 10:55:14 GMT - Debug - auth.service - login with username: popopo
 Thu, 21 May 2020 11:03:41 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 12:02:30 GMT - Debug - aaa, ddd, bbb
+Thu, 21 May 2020 12:02:30 GMT - Debug - username: ccc
+Thu, 21 May 2020 12:02:30 GMT - Debug - auth.route - new account created: {"password":"$2a$10$ONedZLhqODRxdq53/LPZRuof/B17cJzvoR00l2Dbt8eL4g2LT8I02","fullName":"aaa","email":"bbb","username":"ccc","_id":"5ec66dd67d83a138d8372623"}
+Thu, 21 May 2020 12:02:30 GMT - Debug - auth.service - login with username: ccc
+Thu, 21 May 2020 12:04:49 GMT - Debug - aaa, xxx, ccc
+Thu, 21 May 2020 12:04:49 GMT - Debug - username: sss
+Thu, 21 May 2020 12:04:49 GMT - Debug - auth.route - new account created: {"password":"$2a$10$ZQ50dJhhdN.UueYaTkP6cecI0EpjCoUvo63Iwu3jRkkOHE1SsipVW","fullName":"aaa","email":"ccc","username":"sss","_id":"5ec66e61e292e23dc0463f2c"}
+Thu, 21 May 2020 12:04:49 GMT - Debug - auth.service - login with username: sss

@@ -3,11 +3,11 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy = {}) {
     // const criteria = _buildCriteria(filterBy)
-    const collection = await dbService.getCollection('toy')
+    const collection = await dbService.getCollection('board')
     try {
-        const toys = await collection.find().toArray();
+        const boards = await collection.find().toArray();
 
-        /*   toys = toys.map(toy => {
+        /*   boards = boards.map(toy => {
               toy.byUser = {_id: toy.byUser._id, username: toy.byUser.username}
               toy.aboutUser = {_id: toy.aboutUser._id, username: toy.aboutUser.username}
               delete toy.byUserId;
@@ -15,9 +15,9 @@ async function query(filterBy = {}) {
               return toy;
           }) */
 
-        return toys
+        return boards
     } catch (err) {
-        console.log('ERROR: cannot find toys')
+        console.log('ERROR: cannot find boards')
         throw err;
     }
 }

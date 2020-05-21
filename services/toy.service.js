@@ -1,4 +1,4 @@
-const fs = require('fs');
+/* const fs = require('fs');
 const toys = require('../data/db.json');
 
 function query({ name, inStock, type, sort }) {
@@ -90,4 +90,4 @@ function _makeId(length = 3) {
         txt += possible.charAt(Math.floor(Math.random() * possible.length));
     }
     return txt;
-}
+} */

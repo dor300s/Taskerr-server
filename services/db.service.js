@@ -7,7 +7,7 @@ module.exports = {
 }
 
 // Database Name
-const dbName = 'Taskerr_db';
+const dbName = 'taskerr_db';
 
 var dbConn = null;
 
