@@ -81,6 +81,7 @@ async function update(user) {
 }
 
 async function add(user) {
+    
     const collection = await dbService.getCollection(COLLECTION)
     try {
         await collection.insertOne(user);
