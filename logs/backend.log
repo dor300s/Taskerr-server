@@ -529,3 +529,7 @@ Thu, 21 May 2020 15:11:02 GMT - Debug - auth.service - login with username: reem
 =======
 >>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
 >>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+Thu, 21 May 2020 18:09:22 GMT - Debug - sdfsdf, 1234563243, dsfdg
+Thu, 21 May 2020 18:09:22 GMT - Debug - username: reemerfer
+Thu, 21 May 2020 18:09:22 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590084562216,"password":"$2a$10$qjKzojd5m5OcfOiXen079ObnZstbln7WuNun6EVMf8hipuxNKO0/q","fullName":"sdfsdf","email":"dsfdg","userName":"reemerfer","_id":"5ec6c3d215ee363790c052a4"}
+Thu, 21 May 2020 18:09:22 GMT - Debug - auth.service - login with username: reemerfer
