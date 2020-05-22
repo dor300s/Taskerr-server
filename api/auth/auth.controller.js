@@ -2,9 +2,11 @@ const authService = require('./auth.service')
 const logger = require('../../services/logger.service')
 
 async function getSession(req, res){
+    console.log('getting session.........');
+    
     try{
-        console.log(req.session);
-        res.end()
+        console.log(req.session.user);
+        res.send(req.session.user)
 
     }catch (err){
         res.status(500).send(err)
