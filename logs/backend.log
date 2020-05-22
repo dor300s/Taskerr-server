@@ -525,6 +525,40 @@ Thu, 21 May 2020 15:01:22 GMT - Debug - auth.service - login with username: reem
 >>>>>>> c1859b002299ba5cc885897ffdb29035c6ba2dca
 >>>>>>> ccf602bba169d0b57ea62490dccb85a4cbd97645
 <<<<<<< HEAD
+<<<<<<< HEAD
+Thu, 21 May 2020 16:58:32 GMT - Debug - auth.service - login with username: kaka
+Thu, 21 May 2020 16:58:48 GMT - Debug - auth.service - login with username: popopo
+Thu, 21 May 2020 16:59:31 GMT - Debug - bit coin, 123456, bitcoin@scam.com
+Thu, 21 May 2020 16:59:31 GMT - Debug - username: bitcoin
+Thu, 21 May 2020 16:59:31 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:03:48 GMT - Debug - adasd, 123456, aaa
+Thu, 21 May 2020 17:03:48 GMT - Debug - username: gdgd
+Thu, 21 May 2020 17:03:48 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:03:51 GMT - Debug - adasd, 34535, aaa
+Thu, 21 May 2020 17:03:51 GMT - Debug - username: gdgd
+Thu, 21 May 2020 17:03:51 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+=======
+>>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
+>>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+Thu, 21 May 2020 17:21:21 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:21:21 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:21:21 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:21:28 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:21:28 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:21:28 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:25:25 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:25:25 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:25:25 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590081925533,"password":"$2a$10$XCimAygBD/JK5ayZo/VA9ueHbAbqU1s4qyWOm1bcBc9XOejeK5Lp.","fullName":"abababai","email":"rere@kaka.com","userName":"pipi","_id":"5ec6b98512779c166ca829ab"}
+Thu, 21 May 2020 17:25:25 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:28:19 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:34:52 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:38:33 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:42:19 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:44:53 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:51:39 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:52:16 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:52:28 GMT - Debug - auth.service - login with username: pipi
+=======
 Thu, 21 May 2020 15:11:02 GMT - Debug - auth.service - login with username: reem
 =======
 >>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
@@ -543,4 +577,61 @@ Thu, 21 May 2020 18:19:42 GMT - Debug - auth.service - login with username: aaa
 Thu, 21 May 2020 18:20:04 GMT - Debug - auth.service - login with username: aaa
 =======
 >>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+<<<<<<< HEAD
+Thu, 21 May 2020 18:09:22 GMT - Debug - sdfsdf, 1234563243, dsfdg
+Thu, 21 May 2020 18:09:22 GMT - Debug - username: reemerfer
+Thu, 21 May 2020 18:09:22 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590084562216,"password":"$2a$10$qjKzojd5m5OcfOiXen079ObnZstbln7WuNun6EVMf8hipuxNKO0/q","fullName":"sdfsdf","email":"dsfdg","userName":"reemerfer","_id":"5ec6c3d215ee363790c052a4"}
+Thu, 21 May 2020 18:09:22 GMT - Debug - auth.service - login with username: reemerfer
+=======
 >>>>>>> d6df3c09a4b3db0efc025b91a8dd8392e69a7aa3
+>>>>>>> c00ad1e4639802799bdc819e36799ac457df2ddb
+Thu, 21 May 2020 18:55:09 GMT - Debug - auth.service - login with username: reemerfer
+Thu, 21 May 2020 18:55:24 GMT - Debug - auth.service - login with username: reemerfer
+Thu, 21 May 2020 19:01:05 GMT - Debug - auth.service - login with username: reemerfer
+Thu, 21 May 2020 19:03:01 GMT - Debug - auth.service - login with username: reemerfer
+Thu, 21 May 2020 19:14:43 GMT - Debug - auth.service - login with username: reemerfer
+Thu, 21 May 2020 19:15:29 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 19:21:42 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 20:34:36 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 20:56:07 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 20:56:26 GMT - Debug - auth.service - login with username: reem
+Thu, 21 May 2020 21:09:53 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:07:15 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:09:42 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:13:03 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:27:28 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:29:53 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:31:20 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:31:22 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:31:34 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:33:43 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:35:10 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:39:31 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 07:44:46 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:06:52 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:08:13 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:11:09 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:17:00 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:40:43 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:42:11 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:42:43 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:47:22 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:48:09 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:50:55 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 08:52:06 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:14:42 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:17:59 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:19:02 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:20:56 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:21:58 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:26:11 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:27:06 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:28:04 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:30:44 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:31:24 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:31:44 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:32:17 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:33:25 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:34:37 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 09:37:28 GMT - Debug - auth.service - login with username: reem
+>>>>>>> 946167950971a0018b97f60afb175a37f8295917
