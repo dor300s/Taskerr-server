@@ -641,3 +641,31 @@ Fri, 22 May 2020 09:58:12 GMT - Debug - username: popai
 Fri, 22 May 2020 09:58:12 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590141492865,"password":"$2a$10$nMqBgh3q4QTaenG.7NdaL.52Ck8wtcpPB47iw2kH77sd3RUJtTZy6","fullName":"Popai","email":"adsasd","userName":"popai","_id":"5ec7a234202d9027b0b311d2"}
 Fri, 22 May 2020 09:58:12 GMT - Debug - auth.service - login with username: popai
 Fri, 22 May 2020 09:59:42 GMT - Debug - auth.service - login with username: popai
+Fri, 22 May 2020 10:07:48 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:08:48 GMT - Error - Cannot get board
+Fri, 22 May 2020 10:09:12 GMT - Debug - auth.service - login with username: popai
+Fri, 22 May 2020 10:09:14 GMT - Debug - auth.service - login with username: popai
+Fri, 22 May 2020 10:09:22 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:09:37 GMT - Error - Cannot get board
+Fri, 22 May 2020 10:11:00 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:11:19 GMT - Error - Cannot get board
+Fri, 22 May 2020 10:13:21 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:13:25 GMT - Error - Cannot get board
+Fri, 22 May 2020 10:15:40 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:15:45 GMT - Error - Cannot get board
+Fri, 22 May 2020 10:19:52 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:20:39 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:23:09 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:25:27 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:28:13 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:29:08 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:30:21 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:31:29 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:34:29 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:35:32 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:54:43 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:55:50 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:57:19 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 10:59:25 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 11:14:19 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 12:40:13 GMT - Debug - auth.service - login with username: reem
