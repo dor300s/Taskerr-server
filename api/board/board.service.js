@@ -1,6 +1,29 @@
 const dbService = require('../../services/db.service')
 const ObjectId = require('mongodb').ObjectId
 
+
+const boardTemplate = {
+    "title": "",
+    "isStarred": false,
+    "description": "",
+    "members": [],
+    "creator": {},
+    "cratedAt": null,
+    "background": {
+        "color": "#dfe4ea",
+        "content": ""
+    },
+    "msgs": [],
+    "statistics": {},
+    "archive": {
+        "lists": [],
+        "cards": []
+    },
+    "activities": {},
+    "cardLists": []
+}
+
+
 async function query(filterBy = {}) {
     // const criteria = _buildCriteria(filterBy)
     const collection = await dbService.getCollection('board')
@@ -52,13 +75,12 @@ async function save(board) {
     const collection = await dbService.getCollection('board')
     try {
         if (!board._id) {
-            board.createdAt = new Date(Date.now())
+            board = { ...boardTemplate, ...board, cratedAt: Date.now() }
             await collection.insertOne(board)
         } else {
             board._id = ObjectId(board._id);
             await collection.replaceOne({ "_id": board._id }, { $set: board })
         }
-
         return board;
     } catch (err) {
         console.log(`ERROR: cannot save board`)
