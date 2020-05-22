@@ -47,8 +47,8 @@ async function remove(boardId) {
 }
 
 async function save(board) {
-    console.log(board);
-    
+    console.log('board service here', board);
+
     const collection = await dbService.getCollection('board')
     try {
         if (!board._id) {
