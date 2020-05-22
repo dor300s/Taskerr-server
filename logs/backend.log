@@ -635,3 +635,32 @@ Fri, 22 May 2020 09:33:25 GMT - Debug - auth.service - login with username: reem
 Fri, 22 May 2020 09:34:37 GMT - Debug - auth.service - login with username: reem
 Fri, 22 May 2020 09:37:28 GMT - Debug - auth.service - login with username: reem
 >>>>>>> 946167950971a0018b97f60afb175a37f8295917
+Fri, 22 May 2020 13:36:23 GMT - Debug - aaa, aaa, aaa
+Fri, 22 May 2020 13:36:23 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:23 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:26 GMT - Debug - aaa, aaa, aaa
+Fri, 22 May 2020 13:36:26 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:26 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:27 GMT - Debug - aaa, aaa, aaa
+Fri, 22 May 2020 13:36:27 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:27 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:27 GMT - Debug - aaa, aaa, aaa
+Fri, 22 May 2020 13:36:27 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:27 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:27 GMT - Debug - aaa, aaa, aaa
+Fri, 22 May 2020 13:36:27 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:27 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:37 GMT - Debug - aaa, aaa222, aaa
+Fri, 22 May 2020 13:36:37 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:37 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:40 GMT - Debug - aaaa, aaa222, aaa
+Fri, 22 May 2020 13:36:40 GMT - Debug - username: aaa
+Fri, 22 May 2020 13:36:40 GMT - Error - [SIGNUP] This username already exists!
+Fri, 22 May 2020 13:36:52 GMT - Debug - Dor Ben Itzhak, ddsasd, dor300s@gmail.com
+Fri, 22 May 2020 13:36:52 GMT - Debug - username: asdas
+Fri, 22 May 2020 13:36:52 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590154612382,"password":"$2a$10$BnZKlxVSnf71fywGnlhu8eNQyrkNthjmG70RuR7eIAEkTzj5JoI5a","fullName":"Dor Ben Itzhak","email":"dor300s@gmail.com","userName":"asdas","_id":"5ec7d5741b494c3c04e8ffc5"}
+Fri, 22 May 2020 13:36:52 GMT - Debug - auth.service - login with username: asdas
+Fri, 22 May 2020 13:37:13 GMT - Debug - sdkasjldlasjdlkas, 2222, smjsdhjshdjs
+Fri, 22 May 2020 13:37:13 GMT - Debug - username: sldksldksl
+Fri, 22 May 2020 13:37:13 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590154633367,"password":"$2a$10$jx4RIzQAjJk/eJtysoG1CuOJW/9n3AZzgXk4DisE7wR2/6Pq2psJ2","fullName":"sdkasjldlasjdlkas","email":"smjsdhjshdjs","userName":"sldksldksl","_id":"5ec7d5891b494c3c04e8ffc6"}
+Fri, 22 May 2020 13:37:13 GMT - Debug - auth.service - login with username: sldksldksl
