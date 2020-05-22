@@ -539,3 +539,21 @@ Thu, 21 May 2020 17:03:51 GMT - Error - [SIGNUP] MongoError: db already exists w
 =======
 >>>>>>> 9f7c02dfafbed959a79a105c109a62c5f23d26b5
 >>>>>>> 5849159d93b4ac35d13362445cf107f1a151899c
+Thu, 21 May 2020 17:21:21 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:21:21 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:21:21 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:21:28 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:21:28 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:21:28 GMT - Error - [SIGNUP] MongoError: db already exists with different case already have: [Taskerr_db] trying to create [taskerr_db]
+Thu, 21 May 2020 17:25:25 GMT - Debug - abababai, 123456, rere@kaka.com
+Thu, 21 May 2020 17:25:25 GMT - Debug - username: pipi
+Thu, 21 May 2020 17:25:25 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590081925533,"password":"$2a$10$XCimAygBD/JK5ayZo/VA9ueHbAbqU1s4qyWOm1bcBc9XOejeK5Lp.","fullName":"abababai","email":"rere@kaka.com","userName":"pipi","_id":"5ec6b98512779c166ca829ab"}
+Thu, 21 May 2020 17:25:25 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:28:19 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:34:52 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:38:33 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:42:19 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:44:53 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:51:39 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:52:16 GMT - Debug - auth.service - login with username: pipi
+Thu, 21 May 2020 17:52:28 GMT - Debug - auth.service - login with username: pipi
