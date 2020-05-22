@@ -701,6 +701,7 @@ Fri, 22 May 2020 10:59:25 GMT - Debug - auth.service - login with username: reem
 Fri, 22 May 2020 11:14:19 GMT - Debug - auth.service - login with username: reem
 Fri, 22 May 2020 12:40:13 GMT - Debug - auth.service - login with username: reem
 >>>>>>> 8f4ee5499409b7c6e2ced5534f171ab133fa5453
+<<<<<<< HEAD
 Fri, 22 May 2020 13:45:11 GMT - Debug - xsxsxss, 11111, xsxsxs
 Fri, 22 May 2020 13:45:11 GMT - Debug - username: xsxsxs
 Fri, 22 May 2020 13:45:11 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","lastSign":null,"notifications":[],"createdAt":1590155111208,"password":"$2a$10$jAQOJFkS5y/Kg5/wIUl9oe2xuCYqjWehzbFq.a63aB/TsYDab4oTS","fullName":"xsxsxss","email":"xsxsxs","userName":"xsxsxs","_id":"5ec7d767a075354828192845"}
@@ -729,3 +730,7 @@ Fri, 22 May 2020 17:30:21 GMT - Error - Cannot get board
 Fri, 22 May 2020 17:30:41 GMT - Error - Cannot get board
 Fri, 22 May 2020 17:33:23 GMT - Debug - auth.service - login with username: qqq
 Fri, 22 May 2020 17:34:01 GMT - Debug - auth.service - login with username: qqq
+=======
+Fri, 22 May 2020 13:54:13 GMT - Debug - auth.service - login with username: reem
+Fri, 22 May 2020 16:21:35 GMT - Debug - auth.service - login with username: reem
+>>>>>>> 78a8a84933844cc2c2100c6d0e0f5042176b0eef
