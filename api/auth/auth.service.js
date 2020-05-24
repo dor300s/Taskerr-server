@@ -29,14 +29,14 @@ async function login(username, password) {
     return user;
 }
 
-async function signup(password, fullName, email, userName, isGuest) {
+async function signup(password, fullName, userName) {
 
     logger.debug(`username: ${userName}`)
     if (!password || !userName) return Promise.reject('All fields are required')
     const user = await userService.getByUsername(userName)
     if (user) return Promise.reject('This username already exists!')
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ ...userTemplate, createdAt: Date.now(), password: hash, fullName, email, userName, isGuest })
+    return userService.add({ ...userTemplate, createdAt: Date.now(), password: hash, fullName, userName })
 }
 
 module.exports = {

@@ -1021,3 +1021,13 @@ Sat, 23 May 2020 22:46:52 GMT - Debug - auth.service - login with username: qqq
 Sat, 23 May 2020 23:03:09 GMT - Debug - auth.service - login with username: qqq
 Sat, 23 May 2020 23:51:54 GMT - Debug - auth.service - login with username: qqq
 Sat, 23 May 2020 23:53:09 GMT - Debug - auth.service - login with username: qqq
+Sun, 24 May 2020 07:31:14 GMT - Debug - Guest, guest, guest
+Sun, 24 May 2020 07:31:14 GMT - Debug - username: guest
+Sun, 24 May 2020 07:31:14 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":true,"lastSign":null,"notifications":[],"createdAt":1590305474252,"password":"$2a$10$zSxD2/PhnUng3US18B.XtOpmspSQenjbd0uYJwM8XxYBGhFLUlPPO","fullName":"Guest","userName":"guest","_id":"5eca22c2e78cfb3fb4dd4b5b"}
+Sun, 24 May 2020 07:31:14 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 07:33:05 GMT - Debug - qqq, qqq, qqq
+Sun, 24 May 2020 07:33:05 GMT - Debug - username: qqq
+Sun, 24 May 2020 07:33:05 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590305585229,"password":"$2a$10$ham4uqcqWWtLFPdaUKiq5uibBtQm3XawlipknJvR8hSY.PxnTxdxu","fullName":"qqq","userName":"qqq","_id":"5eca23317f8b9c40ec233bc7"}
+Sun, 24 May 2020 07:33:05 GMT - Debug - auth.service - login with username: qqq
+Sun, 24 May 2020 07:43:05 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 07:45:48 GMT - Debug - auth.service - login with username: guest
