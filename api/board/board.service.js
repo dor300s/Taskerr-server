@@ -70,14 +70,14 @@ async function remove(boardId) {
 }
 
 async function save(board, user) {
-    console.log('board service here', board);
-    console.log('userrrrrrrrrrrrrrrrrrrrrrrrrrrr', user);
+    const { _id, imgUrl, fullName, userName } = user;
+    const miniUser = { _id, imgUrl, fullName, userName }
 
     const collection = await dbService.getCollection('board')
     try {
         if (!board._id) {
-            board.creator = user;
-            board.members = [user];
+            board.creator = miniUser;
+            board.members = [miniUser];
             board = { ...boardTemplate, ...board, cratedAt: Date.now() }
             await collection.insertOne(board)
         } else {
