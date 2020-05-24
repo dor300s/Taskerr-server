@@ -11,7 +11,7 @@ const boardTemplate = {
     "cratedAt": null,
     "background": {
         "color": "#dfe4ea",
-        "content": ""
+        "content": "https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
     "msgs": [],
     "statistics": {},
@@ -69,12 +69,15 @@ async function remove(boardId) {
     }
 }
 
-async function save(board) {
+async function save(board, user) {
     console.log('board service here', board);
+    console.log('userrrrrrrrrrrrrrrrrrrrrrrrrrrr', user);
 
     const collection = await dbService.getCollection('board')
     try {
         if (!board._id) {
+            board.creator = user;
+            board.members = [user];
             board = { ...boardTemplate, ...board, cratedAt: Date.now() }
             await collection.insertOne(board)
         } else {

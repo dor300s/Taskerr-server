@@ -34,8 +34,10 @@ async function deleteBoard(req, res) {
 }
 
 async function createBoard(req, res) {
+    console.log('ssssssssssssssssss', req.session);
+    
     try {
-        const board = await boardService.save(req.body)
+        const board = await boardService.save(req.body, req.session.user)
         res.send(board)
     } catch (err) {
         logger.error('Cannot save board', err);
@@ -44,11 +46,11 @@ async function createBoard(req, res) {
 }
 
 async function editBoard(req, res) {
-    
+
     try {
         const board = await boardService.save(req.body)
         console.log('controller got:', board);
-        
+
         res.send(board)
     } catch (err) {
         logger.error('Cannot save board', err);
