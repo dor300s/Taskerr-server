@@ -1072,3 +1072,7 @@ Sun, 24 May 2020 12:24:08 GMT - Debug - [{"_id":"5eca22c2e78cfb3fb4dd4b5b","isLo
 Sun, 24 May 2020 12:24:16 GMT - Debug - [{"_id":"5eca22c2e78cfb3fb4dd4b5b","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":true,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305474252,"fullName":"Guest","userName":"guest"},{"_id":"5eca23317f8b9c40ec233bc7","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305585229,"fullName":"qqq","userName":"qqq"}]
 Sun, 24 May 2020 13:39:18 GMT - Debug - auth.service - login with username: guest
 Sun, 24 May 2020 13:53:26 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 13:57:31 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 14:11:21 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 14:12:17 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 14:14:30 GMT - Debug - auth.service - login with username: guest
