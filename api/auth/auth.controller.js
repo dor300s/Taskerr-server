@@ -1,17 +1,17 @@
 const authService = require('./auth.service')
 const logger = require('../../services/logger.service')
 
-async function getSession(req, res){
+async function getSession(req, res) {
     console.log('getting session.........');
-    
-    try{
+
+    try {
         console.log(req.session.user);
         res.send(req.session.user)
 
-    }catch (err){
+    } catch (err) {
         res.status(500).send(err)
     }
-    
+
 }
 
 async function login(req, res) {
@@ -19,8 +19,8 @@ async function login(req, res) {
     try {
         const user = await authService.login(username, password)
         req.session.user = user;
-        console.log(req.session); 
-        
+        console.log(req.session);
+
         res.json(user)
     } catch (err) {
         res.status(401).send(err)
@@ -30,9 +30,9 @@ async function login(req, res) {
 async function signup(req, res) {
 
     try {
-        const { password, fullName, email, username } = req.body
-        logger.debug(fullName + ', ' + password + ', ' + email, ', ' + username)
-        const account = await authService.signup(password, fullName, email, username)
+        const { password, fullName, username } = req.body
+        logger.debug(fullName + ', ' + password + ', ' + username)
+        const account = await authService.signup(password, fullName, username)
         logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
         const user = await authService.login(username, password)
         req.session.user = user
