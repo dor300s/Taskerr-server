@@ -1172,3 +1172,11 @@ Sun, 24 May 2020 16:35:29 GMT - Debug - [{"_id":"5eca22c2e78cfb3fb4dd4b5b","isLo
 Sun, 24 May 2020 16:35:34 GMT - Debug - [{"_id":"5eca22c2e78cfb3fb4dd4b5b","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":true,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305474252,"fullName":"Guest","userName":"guest"},{"_id":"5eca23317f8b9c40ec233bc7","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305585229,"fullName":"qqq","userName":"qqq"}]
 Sun, 24 May 2020 16:35:42 GMT - Debug - [{"_id":"5eca22c2e78cfb3fb4dd4b5b","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":true,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305474252,"fullName":"Guest","userName":"guest"},{"_id":"5eca23317f8b9c40ec233bc7","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590305585229,"fullName":"qqq","userName":"qqq"}]
 Sun, 24 May 2020 19:25:01 GMT - Debug - auth.service - login with username: guest
+Sun, 24 May 2020 23:09:36 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 06:18:42 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 07:44:47 GMT - Error - Cannot save board
+Mon, 25 May 2020 07:44:50 GMT - Error - Cannot save board
+Mon, 25 May 2020 07:44:57 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 07:45:40 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 07:46:36 GMT - Error - Cannot save board
+Mon, 25 May 2020 07:46:39 GMT - Debug - auth.service - login with username: guest
