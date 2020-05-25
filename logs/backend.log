@@ -1228,3 +1228,4 @@ Mon, 25 May 2020 17:17:09 GMT - Debug - KUKU, mami, mami
 Mon, 25 May 2020 17:17:09 GMT - Debug - username: mami
 Mon, 25 May 2020 17:17:09 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590427029836,"password":"$2a$10$.iSH2RHDsyw5ojP1FKvL9ugj7lkdZXUBBDgV01ckO6VWNdvUfJ3mm","fullName":"KUKU","userName":"mami","_id":"5ecbfd95d582a82df4cc4464"}
 Mon, 25 May 2020 17:17:09 GMT - Debug - auth.service - login with username: mami
+Mon, 25 May 2020 18:44:50 GMT - Debug - auth.service - login with username: reem
