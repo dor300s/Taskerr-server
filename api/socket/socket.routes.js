@@ -14,7 +14,7 @@ function connectSockets(io) {
           });
 
         socket.on('board updated', (id) => {
-            socket.broadcast.emit('board updated' , id);
+            socket.broadcast.emit(`board-updated-${id}`, id);
           });
 
         socket.on('disconnect', () => {
