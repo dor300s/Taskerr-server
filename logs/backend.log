@@ -1280,3 +1280,29 @@ Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: gues
 Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: guest
 Tue, 26 May 2020 09:17:28 GMT - Debug - auth.service - login with username: guest
 Tue, 26 May 2020 09:17:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 11:49:40 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 13:49:26 GMT - Error - Cannot get boards
+Tue, 26 May 2020 13:49:29 GMT - Error - Cannot get boards
+Tue, 26 May 2020 13:49:30 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 13:49:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:29 GMT - Error - Cannot get boards
+Tue, 26 May 2020 14:08:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:35 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:37 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:38 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:39 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:53 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:56 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:57 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:23 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:28 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:31 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:12:49 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:12:49 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:12:53 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:13:14 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:13:23 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:16:00 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:16:04 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:16:06 GMT - Error - Cannot save board
