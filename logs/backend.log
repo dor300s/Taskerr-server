@@ -1278,3 +1278,5 @@ Mon, 25 May 2020 22:15:03 GMT - Debug - [{"_id":"5ec674f1cfd2093e549c8bd9","crea
 >>>>>>> b3b3389638579e352509e160e36a398dba061257
 Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: guest
 Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 09:17:28 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 09:17:31 GMT - Debug - auth.service - login with username: guest
