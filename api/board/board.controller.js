@@ -3,9 +3,8 @@ const boardService = require('./board.service')
 
 
 async function getBoards(req, res) {
-    const criteria = req.query
     try {
-        const boards = await boardService.query(criteria)
+        const boards = await boardService.query(req.session)
         res.send(boards)
     } catch (err) {
         logger.error('Cannot get boards', err);

@@ -1240,3 +1240,16 @@ Mon, 25 May 2020 19:27:51 GMT - Debug - auth.service - login with username: gues
 Mon, 25 May 2020 19:27:52 GMT - Debug - auth.service - login with username: guest
 Mon, 25 May 2020 19:29:08 GMT - Debug - auth.service - login with username: guest
 Mon, 25 May 2020 19:29:11 GMT - Debug - auth.service - login with username: qqq
+Mon, 25 May 2020 20:03:41 GMT - Debug - auth.service - login with username: qqq
+Mon, 25 May 2020 20:03:42 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:12:02 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:14:39 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:30:16 GMT - Error - Cannot get boards
+Mon, 25 May 2020 20:30:17 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 21:02:02 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:03 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 21:02:24 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:26 GMT - Debug - auth.service - login with username: qqq
+Mon, 25 May 2020 21:02:44 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:45 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 06:49:59 GMT - Debug - auth.service - login with username: guest
