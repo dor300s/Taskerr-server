@@ -1243,6 +1243,21 @@ Mon, 25 May 2020 19:27:51 GMT - Debug - auth.service - login with username: gues
 Mon, 25 May 2020 19:27:52 GMT - Debug - auth.service - login with username: guest
 Mon, 25 May 2020 19:29:08 GMT - Debug - auth.service - login with username: guest
 Mon, 25 May 2020 19:29:11 GMT - Debug - auth.service - login with username: qqq
+<<<<<<< HEAD
+Mon, 25 May 2020 20:03:41 GMT - Debug - auth.service - login with username: qqq
+Mon, 25 May 2020 20:03:42 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:12:02 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:14:39 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 20:30:16 GMT - Error - Cannot get boards
+Mon, 25 May 2020 20:30:17 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 21:02:02 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:03 GMT - Debug - auth.service - login with username: guest
+Mon, 25 May 2020 21:02:24 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:26 GMT - Debug - auth.service - login with username: qqq
+Mon, 25 May 2020 21:02:44 GMT - Error - Cannot get boards
+Mon, 25 May 2020 21:02:45 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 06:49:59 GMT - Debug - auth.service - login with username: guest
+=======
 >>>>>>> fae724141bc7e21c47878c444eb8edfb708af865
 Mon, 25 May 2020 20:01:25 GMT - Debug - auth.service - login with username: reem
 Mon, 25 May 2020 20:01:31 GMT - Debug - auth.service - login with username: reem
@@ -1260,6 +1275,10 @@ Mon, 25 May 2020 21:21:12 GMT - Debug - auth.service - login with username: reem
 Mon, 25 May 2020 21:29:51 GMT - Debug - auth.service - login with username: reem
 Mon, 25 May 2020 21:29:59 GMT - Debug - auth.service - login with username: reema
 Mon, 25 May 2020 22:15:03 GMT - Debug - [{"_id":"5ec674f1cfd2093e549c8bd9","createdAt":1589975094261,"isLogIn":true,"imgUrl":"https://images.pexels.com/photos/1844547/pexels-photo-1844547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reem","fullName":"reem alon","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[],"givenReviews":[]},{"_id":"5ec674f1cfd2093e549c8bc9","createdAt":1589975094261,"isLogIn":false,"imgUrl":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reema","fullName":"rokie popo","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[{"id":"5ec53842d55fd8dec45ecea","isRead":false,"content":"Reem added new action to card, more text for test","createdAt":1589973824999,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842f4254ec76dace06a","isRead":false,"content":"Reem added new action to card","createdAt":1589975733487,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842fc6833c1cbfe65c1","isRead":false,"content":"Reem added new action to card","createdAt":1589975018727,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538429516c59e1c70e5c4","isRead":true,"content":"Reem added new action to card","createdAt":1589982409327,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbec4389f760","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbe3453","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"}],"givenReviews":[]},{"_id":"5ecbfd95d582a82df4cc4464","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590427029836,"fullName":"KUKU","userName":"mami"}]
+<<<<<<< HEAD
 Tue, 26 May 2020 07:21:43 GMT - Debug - auth.service - login with username: reem
 Tue, 26 May 2020 08:01:13 GMT - Debug - auth.service - login with username: רקקצש
 Tue, 26 May 2020 08:01:19 GMT - Debug - auth.service - login with username: reema
+=======
+>>>>>>> b3b3389638579e352509e160e36a398dba061257
+>>>>>>> ac8354e931a492e840f19a0fecdeef76ab1222b9

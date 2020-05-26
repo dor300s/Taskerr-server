@@ -24,11 +24,13 @@ const boardTemplate = {
 }
 
 
-async function query(filterBy = {}) {
+async function query({ user }) {
+    console.log('querrrrrrrrryyyyyyyyy', user);
+
     // const criteria = _buildCriteria(filterBy)
     const collection = await dbService.getCollection('board')
     try {
-        const boards = await collection.find().toArray();
+        const boards = await collection.find({ "members._id": user._id }).toArray();
 
         /*   boards = boards.map(board => {
               board.byUser = {_id: board.byUser._id, username: board.byUser.username}
@@ -70,7 +72,7 @@ async function remove(boardId) {
 }
 
 async function save(board, user) {
-    
+
     const collection = await dbService.getCollection('board')
     try {
         if (!board._id) {
