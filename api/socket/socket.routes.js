@@ -17,6 +17,10 @@ function connectSockets(io) {
             socket.broadcast.emit(`board-updated-${id}`, id);
           });
 
+        socket.on('user typing', (data) => {
+            socket.broadcast.emit(`user-type-${data.id}`, data.status);
+          });
+
         socket.on('disconnect', () => {
             console.log('user disconnected');
         });
