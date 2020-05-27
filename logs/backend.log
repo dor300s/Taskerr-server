@@ -1363,3 +1363,5 @@ Wed, 27 May 2020 06:13:46 GMT - Debug - Dor, 123, dor
 Wed, 27 May 2020 06:13:46 GMT - Debug - username: dor
 Wed, 27 May 2020 06:13:46 GMT - Debug - auth.route - new account created: {"isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"lastSign":null,"notifications":[],"createdAt":1590560026846,"password":"$2a$10$32T8ek5yDcnX7iHcXGhxfOTtPU5FRjGl/nCxCNqARaGLtQzfJlZMW","fullName":"Dor","userName":"dor","_id":"5ece051aeef44f49bc80af2a"}
 Wed, 27 May 2020 06:13:46 GMT - Debug - auth.service - login with username: dor
+Wed, 27 May 2020 06:19:26 GMT - Debug - auth.service - login with username: guest
+Wed, 27 May 2020 06:31:25 GMT - Debug - auth.service - login with username: guest
