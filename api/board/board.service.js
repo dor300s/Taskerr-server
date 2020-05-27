@@ -10,7 +10,7 @@ const boardTemplate = {
     "creator": {},
     "cratedAt": null,
     "background": {
-        "color": "#dfe4ea",
+        "color": "#f6f7fb",
         "content": "https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
     "msgs": [],

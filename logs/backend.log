@@ -1306,3 +1306,12 @@ Tue, 26 May 2020 14:13:23 GMT - Debug - auth.service - login with username: gues
 Tue, 26 May 2020 14:16:00 GMT - Debug - auth.service - login with username: guest
 Tue, 26 May 2020 14:16:04 GMT - Error - Cannot save board
 Tue, 26 May 2020 14:16:06 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:36:32 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 16:58:55 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:58:56 GMT - Error - Cannot save board
+Tue, 26 May 2020 16:58:59 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:59:01 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 16:59:34 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:59:35 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 17:23:43 GMT - Error - Cannot get boards
+Tue, 26 May 2020 17:32:45 GMT - Debug - auth.service - login with username: guest
