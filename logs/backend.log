@@ -1281,6 +1281,7 @@ Tue, 26 May 2020 08:01:13 GMT - Debug - auth.service - login with username: רק
 Tue, 26 May 2020 08:01:19 GMT - Debug - auth.service - login with username: reema
 =======
 >>>>>>> b3b3389638579e352509e160e36a398dba061257
+<<<<<<< HEAD
 >>>>>>> ac8354e931a492e840f19a0fecdeef76ab1222b9
 Tue, 26 May 2020 09:30:29 GMT - Debug - auth.service - login with username: reem
 Tue, 26 May 2020 10:40:11 GMT - Debug - [{"_id":"5ec674f1cfd2093e549c8bd9","createdAt":1589975094261,"isLogIn":true,"imgUrl":"https://images.pexels.com/photos/1844547/pexels-photo-1844547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reem","fullName":"reem alon","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[],"givenReviews":[]},{"_id":"5ec674f1cfd2093e549c8bc9","createdAt":1589975094261,"isLogIn":false,"imgUrl":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reema","fullName":"rokie popo","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[{"id":"5ec53842d55fd8dec45ecea","isRead":false,"content":"Reem added new action to card, more text for test","createdAt":1589973824999,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842f4254ec76dace06a","isRead":false,"content":"Reem added new action to card","createdAt":1589975733487,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842fc6833c1cbfe65c1","isRead":false,"content":"Reem added new action to card","createdAt":1589975018727,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538429516c59e1c70e5c4","isRead":true,"content":"Reem added new action to card","createdAt":1589982409327,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbec4389f760","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbe3453","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"}],"givenReviews":[]},{"_id":"5ecbfd95d582a82df4cc4464","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590427029836,"fullName":"KUKU","userName":"mami"}]
@@ -1319,3 +1320,44 @@ Tue, 26 May 2020 20:39:02 GMT - Debug - [{"_id":"5ec674f1cfd2093e549c8bd9","crea
 Tue, 26 May 2020 20:55:56 GMT - Debug - [{"_id":"5ec674f1cfd2093e549c8bd9","createdAt":1589975094261,"isLogIn":true,"imgUrl":"https://images.pexels.com/photos/1844547/pexels-photo-1844547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reem","fullName":"reem alon","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[],"givenReviews":[]},{"_id":"5ec674f1cfd2093e549c8bc9","createdAt":1589975094261,"isLogIn":false,"imgUrl":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940","age":31,"isGuest":false,"phone":"0(988) 514-2922","address":"177 Nolans Lane, Bascom, West Virginia, 2248","about":"sunt anim est culpa esse aliqua","userName":"reema","fullName":"rokie popo","lastSign":1589983212251,"gender":"female","company":"EWAVES","notifications":[{"id":"5ec53842d55fd8dec45ecea","isRead":false,"content":"Reem added new action to card, more text for test","createdAt":1589973824999,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842f4254ec76dace06a","isRead":false,"content":"Reem added new action to card","createdAt":1589975733487,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec53842fc6833c1cbfe65c1","isRead":false,"content":"Reem added new action to card","createdAt":1589975018727,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538429516c59e1c70e5c4","isRead":true,"content":"Reem added new action to card","createdAt":1589982409327,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbec4389f760","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"},{"id":"5ec538422f94fbe3453","isRead":true,"content":"Reem added new action to card","createdAt":1589977727224,"url":"/board/5eca7e8fcab0c9247c56b95e/478a6a29-27b5-4a1e-a24b-83a3d868f1ab"}],"givenReviews":[]},{"_id":"5ecbfd95d582a82df4cc4464","isLogIn":false,"imgUrl":"https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590427029836,"fullName":"KUKU","userName":"mami"},{"_id":"5ecd3d08d163f70e50249a01","isLogIn":false,"imgUrl":"https://api.adorable.io/avatars/1","isGuest":false,"phone":null,"address":null,"about":null,"lastSign":null,"gender":null,"company":null,"notifications":[],"createdAt":1590508808725,"fullName":"Guest user","userName":"guest"}]
 Wed, 27 May 2020 05:44:40 GMT - Debug - auth.service - login with username: reem
 Wed, 27 May 2020 05:45:01 GMT - Debug - auth.service - login with username: guest
+=======
+Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 09:11:08 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 09:17:28 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 09:17:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 11:49:40 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 13:49:26 GMT - Error - Cannot get boards
+Tue, 26 May 2020 13:49:29 GMT - Error - Cannot get boards
+Tue, 26 May 2020 13:49:30 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 13:49:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:29 GMT - Error - Cannot get boards
+Tue, 26 May 2020 14:08:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:31 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:08:35 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:37 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:38 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:39 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:53 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:56 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:08:57 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:23 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:28 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:09:31 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:12:49 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:12:49 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:12:53 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:13:14 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:13:23 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:16:00 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 14:16:04 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:16:06 GMT - Error - Cannot save board
+Tue, 26 May 2020 14:36:32 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 16:58:55 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:58:56 GMT - Error - Cannot save board
+Tue, 26 May 2020 16:58:59 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:59:01 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 16:59:34 GMT - Error - Cannot get boards
+Tue, 26 May 2020 16:59:35 GMT - Debug - auth.service - login with username: guest
+Tue, 26 May 2020 17:23:43 GMT - Error - Cannot get boards
+Tue, 26 May 2020 17:32:45 GMT - Debug - auth.service - login with username: guest
+>>>>>>> 76479f865def6ac419daa9cc513553bcd5141d5a

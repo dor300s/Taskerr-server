@@ -1,5 +1,6 @@
 const logger = require('../../services/logger.service')
 const boardService = require('./board.service')
+// const connectSockets = require('../socket/socket.routes')
 
 
 async function getBoards(req, res) {
@@ -48,8 +49,8 @@ async function editBoard(req, res) {
 
     try {
         const board = await boardService.save(req.body)
+        // connectSockets.emit('board updated', board._id);
         console.log('controller got:', board);
-
         res.send(board)
     } catch (err) {
         logger.error('Cannot save board', err);
