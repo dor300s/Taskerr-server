@@ -1365,3 +1365,4 @@ Wed, 27 May 2020 06:13:46 GMT - Debug - auth.route - new account created: {"isLo
 Wed, 27 May 2020 06:13:46 GMT - Debug - auth.service - login with username: dor
 Wed, 27 May 2020 06:19:26 GMT - Debug - auth.service - login with username: guest
 Wed, 27 May 2020 06:31:25 GMT - Debug - auth.service - login with username: guest
+Wed, 27 May 2020 12:02:50 GMT - Debug - auth.service - login with username: guest
