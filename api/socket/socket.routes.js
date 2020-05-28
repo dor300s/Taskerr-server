@@ -22,7 +22,7 @@ function connectSockets(io) {
           });
 
         socket.on('user invite', (data) => {
-            socket.broadcast.emit(`user-invite-${data.userId}`, data);
+            socket.broadcast.emit(`user-invite-${data.invitedUserId}`, data);
           });
 
         socket.on('disconnect', () => {
