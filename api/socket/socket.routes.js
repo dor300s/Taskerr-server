@@ -21,6 +21,10 @@ function connectSockets(io) {
             socket.broadcast.emit(`user-type-${data.id}`, data.status);
           });
 
+        socket.on('user invite', (data) => {
+            socket.broadcast.emit(`user-invite-${data.userId}`, data);
+          });
+
         socket.on('disconnect', () => {
             console.log('user disconnected');
         });
