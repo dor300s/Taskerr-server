@@ -25,6 +25,7 @@ function connectSockets(io) {
           console.log('Inviteddddddddddddd', data);
           
             socket.broadcast.emit(`user-invite-${data.userId}`, data);
+            socket.broadcast.emit(`user-invite-${data.invitedUserId}`, data);
           });
 
         socket.on('disconnect', () => {
