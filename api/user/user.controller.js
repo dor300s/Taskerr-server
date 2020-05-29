@@ -5,7 +5,7 @@ async function getUser(req, res) {
     const user = await userService.getById(req.params.id)
     res.send(user)
 }
-  
+
 async function getUsers(req, res) {
     const users = await userService.query(req.query)
     logger.debug(users);
@@ -19,8 +19,13 @@ async function deleteUser(req, res) {
 
 async function updateUser(req, res) {
     const user = req.body;
-    await userService.update(user)
-    res.send(user)
+    try {
+        await userService.update(user)
+        req.session.user = user
+        res.send(user)
+    } catch (err) {
+        res.status(500).send(err)
+    }
 }
 
 module.exports = {
