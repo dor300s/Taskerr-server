@@ -45,4 +45,12 @@ app.use('/api/user', userRoutes)
 connectSockets(io)
 
 
+
+app.get('/*', function (req, res) {
+    res.sendFile(path.join(__dirname, '/index.html'), function (err) {
+        if (err) {
+            res.status(500).send(err)
+        }
+    })
+})
 http.listen(port, () => { console.log(`App listening on port ${port}!`) });
