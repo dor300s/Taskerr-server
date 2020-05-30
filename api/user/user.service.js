@@ -1,6 +1,5 @@
 
 const dbService = require('../../services/db.service')
-// const reviewService = require('../review/review.service')
 const ObjectId = require('mongodb').ObjectId
 const COLLECTION = 'user'
 
@@ -28,6 +27,7 @@ async function query(filterBy = {}) {
 }
 
 async function getById(userId) {
+
     const collection = await dbService.getCollection(COLLECTION)
     try {
         const user = await collection.findOne({ "_id": ObjectId(userId) })
@@ -38,7 +38,6 @@ async function getById(userId) {
         //     delete review.byUser
         //     return review
         // })
-
 
         return user
     } catch (err) {
@@ -74,7 +73,7 @@ async function update(user) {
 
     try {
         await collection.replaceOne({ "_id": user._id }, { $set: user })
-        console.log('new-userrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr',user)
+        console.log('new-userrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', user)
         return user
     } catch (err) {
         console.log(`ERROR: cannot update user ${user._id}`)
@@ -83,7 +82,7 @@ async function update(user) {
 }
 
 async function add(user) {
-    
+
     const collection = await dbService.getCollection(COLLECTION)
     try {
         await collection.insertOne(user);

@@ -25,7 +25,7 @@ const boardTemplate = {
 
 
 async function query({ user }) {
-    console.log('querrrrrrrrryyyyyyyyy', user);
+    // console.log('querrrrrrrrryyyyyyyyy', user);
 
     // const criteria = _buildCriteria(filterBy)
     const collection = await dbService.getCollection('board')
