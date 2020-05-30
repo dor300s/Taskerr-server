@@ -44,5 +44,4 @@ app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 connectSockets(io)
 
-
 http.listen(port, () => { console.log(`App listening on port ${port}!`) });
