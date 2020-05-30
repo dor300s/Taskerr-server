@@ -12,15 +12,6 @@ const io = require('socket.io')(http);
 
 
 // Express App Config //
-app.use(bodyParser.json());
-app.use(cookieParser());
-app.use(session({
-    secret: 'SECRETE3943738937462',
-    resave: false,
-    saveUninitialized: true,
-    cookie: { secure: false }
-}))
-
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static('public'));
 } else {
@@ -30,6 +21,15 @@ if (process.env.NODE_ENV === 'production') {
     };
     app.use(cors(corsOptions));
 }
+app.use(bodyParser.json());
+app.use(cookieParser());
+app.use(session({
+    secret: 'SECRETE3943738937462',
+    resave: false,
+    saveUninitialized: true,
+    cookie: { secure: false }
+}))
+
 
 
 const boardRoutes = require('./api/board/board.routes')
@@ -44,4 +44,12 @@ app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 connectSockets(io)
 
+<<<<<<< HEAD
+=======
+
+
+app.get('*', (req, res) => {
+    res.sendFile(__dirname + '/public/index.html');
+  });
+>>>>>>> 39ace20ac6a08fd7c41ad5145ce7a82b07c05da3
 http.listen(port, () => { console.log(`App listening on port ${port}!`) });
