@@ -46,7 +46,7 @@ connectSockets(io)
 
 
 
-http.get('*', (req, res) => {
-    res.sendFile(__dirname + '/index.html');
+app.get('*', (req, res) => {
+    res.sendFile(__dirname + '/public/index.html');
   });
 http.listen(port, () => { console.log(`App listening on port ${port}!`) });
