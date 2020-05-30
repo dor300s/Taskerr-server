@@ -1,18 +1,12 @@
 
 module.exports = connectSockets
 
-let gChats = [];
-
 function connectSockets(io) {
     io.on('connection', socket => {
         console.log('User connected');
-
+      
         //Events
-        socket.on('nav mounted', (msg) => {
-            console.log('message: ' + msg);
-            io.emit('nav mounted', msg);
-          });
-
+        
         socket.on('board updated', (id) => {
             socket.broadcast.emit(`board-updated-${id}`, id);
           });
@@ -25,8 +19,13 @@ function connectSockets(io) {
             socket.broadcast.emit(`user-invite-${data.invitedUserId}`, data);
           });
 
+        socket.on('user card assign', (data) => {
+            socket.broadcast.emit(`user-card-assign-${data.assignedUserId}`, data);
+          });
+
         socket.on('disconnect', () => {
-            console.log('user disconnected');
+          
+          
         });
     })
 }
