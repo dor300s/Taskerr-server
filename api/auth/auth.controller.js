@@ -46,7 +46,7 @@ async function signup(req, res) {
 async function logout(req, res) {
     try {
         req.session.destroy()
-        res.send({ message: 'logged out successfully' })
+        res.send({ message: 'success' })
     } catch (err) {
         res.status(500).send(err)
     }
