@@ -44,6 +44,7 @@ async function signup(req, res) {
 }
 
 async function logout(req, res) {
+    // let loogedUser = req.session.user
     try {
         req.session.destroy()
         res.send({ message: 'success' })
