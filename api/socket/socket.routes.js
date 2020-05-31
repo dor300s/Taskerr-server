@@ -4,9 +4,11 @@ module.exports = connectSockets
 function connectSockets(io) {
   io.on('connection', socket => {
     console.log('User connected');
-    socket.broadcast.emit('newuserconnect')
-
+    
     //Events
+        socket.on('user login', () => {
+      socket.broadcast.emit('newuserconnect')
+    });
 
     socket.on('board updated', (id) => {
       socket.broadcast.emit(`board-updated-${id}`, id);
@@ -28,10 +30,13 @@ function connectSockets(io) {
       socket.broadcast.emit(`user-disconnected`);
     });
 
-    
+    socket.on('user log-out-ui', () => {
+      socket.broadcast.emit(`user-disconnected-ui`);
+    });
 
     socket.on('disconnect', () => {
       console.log('disconnect');
+      socket.broadcast.emit(`user-disconnected-test`);
 
     });
   })
